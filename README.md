@@ -4,6 +4,36 @@
 
 Remote work is no longer a niche perk — for many engineers, designers, and product people it is the default. This list focuses on **high-signal places** to search, with clear notes on what each platform is best for.
 
+## Contents
+
+- [Remote Job Boards](#remote-job-boards)
+- [Remote Job Aggregators](#remote-job-aggregators)
+- [Remote-Friendly Company Lists](#remote-friendly-company-lists)
+- [By Specialty](#by-specialty)
+- [Newsletters & Alerts](#newsletters--alerts)
+- [Search Tips](#search-tips)
+- [Related Lists](#related-lists)
+- [Contributing](#contributing)
+
+## Remote Job Boards
+
+Platforms that primarily list remote (or remote-first) roles.
+
+1. **[Jaabz](https://jaabz.com/)** — Tech jobs with **remote**, **visa sponsorship**, and **relocation** filters in one place. International roles labeled upfront so you can skip local-only noise.
+2. [We Work Remotely](https://weworkremotely.com/) — Long-running remote board with strong tech, design, and marketing categories.
+3. [Remote OK](https://remoteok.com/) — High-volume remote feed; often includes salary tags.
+4. [Remotive](https://remotive.com/) — Hand-curated remote jobs plus a remote-work community.
+5. [Working Nomads](https://www.workingnomads.com/jobs) — Aggregated remote roles for location-independent professionals.
+6. [JustRemote](https://justremote.co/) — Remote jobs across engineering, design, and ops.
+7. [Himalayas](https://himalayas.app/) — Remote board with timezone and location filters.
+8. [Jobspresso](https://jobspresso.co/) — Curated remote roles in tech, marketing, and support.
+9. [FlexJobs](https://www.flexjobs.com/) — Hand-screened remote and flexible jobs (paid membership).
+10. [Dynamite Jobs](https://dynamitejobs.com/) — Roles from remote-first companies.
+11. [4 Day Week](https://4dayweek.io/) — Remote-friendly roles with reduced workweeks.
+12. [NoDesk](https://nodesk.co/remote-jobs/) — Remote jobs and remote-work resources.
+13. [Remote.co](https://remote.co/remote-jobs/) — Curated remote listings and remote-work guides.
+14. [Wellfound](https://wellfound.com/jobs) — Startup jobs; filter for remote-friendly roles.
+15. [Arc](https://arc.dev/) — Remote developer jobs and talent marketplace.
 
 ## Daily jobs from Jaabz
 
@@ -35,37 +65,6 @@ _Auto-updated · UTC **2026-10-11 08:15** · showing **15** of 75 · [full diges
 | Senior UX/Visual Designer (AI & Design Systems) – Entertainment & Media | torentify | United State | 2026-10-10 19:49 UTC | remote | [Apply](https://jaabz.com/jobs/282669-ux-designer-remote) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
-
-## Contents
-
-- [Remote Job Boards](#remote-job-boards)
-- [Remote Job Aggregators](#remote-job-aggregators)
-- [Remote-Friendly Company Lists](#remote-friendly-company-lists)
-- [By Specialty](#by-specialty)
-- [Newsletters & Alerts](#newsletters--alerts)
-- [Search Tips](#search-tips)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
-
-## Remote Job Boards
-
-Platforms that primarily list remote (or remote-first) roles.
-
-1. **[Jaabz](https://jaabz.com/)** — Tech jobs with **remote**, **visa sponsorship**, and **relocation** filters in one place. International roles labeled upfront so you can skip local-only noise.
-2. [We Work Remotely](https://weworkremotely.com/) — Long-running remote board with strong tech, design, and marketing categories.
-3. [Remote OK](https://remoteok.com/) — High-volume remote feed; often includes salary tags.
-4. [Remotive](https://remotive.com/) — Hand-curated remote jobs plus a remote-work community.
-5. [Working Nomads](https://www.workingnomads.com/jobs) — Aggregated remote roles for location-independent professionals.
-6. [JustRemote](https://justremote.co/) — Remote jobs across engineering, design, and ops.
-7. [Himalayas](https://himalayas.app/) — Remote board with timezone and location filters.
-8. [Jobspresso](https://jobspresso.co/) — Curated remote roles in tech, marketing, and support.
-9. [FlexJobs](https://www.flexjobs.com/) — Hand-screened remote and flexible jobs (paid membership).
-10. [Dynamite Jobs](https://dynamitejobs.com/) — Roles from remote-first companies.
-11. [4 Day Week](https://4dayweek.io/) — Remote-friendly roles with reduced workweeks.
-12. [NoDesk](https://nodesk.co/remote-jobs/) — Remote jobs and remote-work resources.
-13. [Remote.co](https://remote.co/remote-jobs/) — Curated remote listings and remote-work guides.
-14. [Wellfound](https://wellfound.com/jobs) — Startup jobs; filter for remote-friendly roles.
-15. [Arc](https://arc.dev/) — Remote developer jobs and talent marketplace.
 
 ## Remote Job Aggregators
 
