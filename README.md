@@ -11,6 +11,19 @@ Fresh **Remote** roles are updated automatically every day:
 
 ➡️ **[Today's jobs](DAILY_JOBS.md)** · Hub: [Remote on Jaabz](https://jaabz.com/jobs/remote)
 
+<!-- JAABZ-DAILY-JOBS:START -->
+## Today's Remote jobs from Jaabz
+
+_Auto-updated · UTC **2026-10-11** · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+
+| Role | Company | Country | Tags | Link |
+| --- | --- | --- | --- | --- |
+| Full-Stack Software Engineer | torentify | United State | remote | [Apply](https://jaabz.com/jobs/282794-full-stack-engineer-remote) |
+| Full-Stack Software Engineer (AI Security Startup) | torentify | United State | remote | [Apply](https://jaabz.com/jobs/282790-software-engineer-wfh) |
+| Senior Data Analyst (Product & Business Analytics) | torentify | United State | remote | [Apply](https://jaabz.com/jobs/282784-data-analyst-ii-remote) |
+
+<!-- JAABZ-DAILY-JOBS:END -->
+
 ## Contents
 
 - [Remote Job Boards](#remote-job-boards)
