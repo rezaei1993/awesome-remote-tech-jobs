@@ -4,6 +4,13 @@
 
 Remote work is no longer a niche perk — for many engineers, designers, and product people it is the default. This list focuses on **high-signal places** to search, with clear notes on what each platform is best for.
 
+
+## Daily jobs from Jaabz
+
+Fresh **Remote** roles are updated automatically every day:
+
+➡️ **[Today's jobs](DAILY_JOBS.md)** · Hub: [Remote on Jaabz](https://jaabz.com/jobs/remote)
+
 ## Contents
 
 - [Remote Job Boards](#remote-job-boards)
