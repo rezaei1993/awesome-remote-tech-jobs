@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-12 16:30** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-10-13 14:48** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Applied Machine Learning Scientist (Fraud & Identity Risk) | SentiLink | United State | 2026-10-12 16:29 UTC | remote | [Apply](https://jaabz.com/jobs/283358-senior-applied-ml-scientist) |
-| Data Analyst (Python) | BairesDev | IRELAND | 2026-10-12 15:50 UTC | remote | [Apply](https://jaabz.com/jobs/271659-data-analyst-python-remote-work) |
-| Head of Machine Learning | dou polska | POLAND | 2026-10-12 15:42 UTC | remote | [Apply](https://jaabz.com/jobs/283338-senior-ml-engineer) |
-| Senior Machine Learning Engineer (Ranking, Recommendation & AI Systems) | Cosuno | GERMANY | 2026-10-12 15:41 UTC | remote | [Apply](https://jaabz.com/jobs/283339-principal-ml-engineer) |
-| Recruitment Operations Executive (Back to Work Initiative) | A2G Consulting BV (A2G Technologies) | INDIA | 2026-10-12 15:31 UTC | remote | [Apply](https://jaabz.com/jobs/283325-recruitment-operations-executive-back-to-work-initiative) |
-| Staff Brand Designer | Mercury | United State | 2026-10-12 15:25 UTC | remote | [Apply](https://jaabz.com/jobs/283331-staff-brand-designer) |
-| Senior Backend Developer (Go & GCP) | Devsu | ARGENTINA | 2026-10-12 15:21 UTC | remote | [Apply](https://jaabz.com/jobs/283314-senior-go-developer) |
-| Senior Rust Engineer | kake | POLAND | 2026-10-12 15:21 UTC | remote | [Apply](https://jaabz.com/jobs/263183-senior-rust-engineer-remote) |
-| Senior WordPress Developer (PHP/Symfony) - Remote | agilegrid solutions | United State | 2026-10-12 15:10 UTC | remote | [Apply](https://jaabz.com/jobs/283318-wordpress-developer) |
-| Senior Android Developer (Remote) | agilegrid solutions | United State | 2026-10-12 14:52 UTC | remote | [Apply](https://jaabz.com/jobs/283313-android-developer) |
-| Chief Marketing Officer (CMO) - Remote | citadel advisors llc | United State | 2026-10-12 14:37 UTC | remote | [Apply](https://jaabz.com/jobs/283301-chief-marketing-officer) |
-| UI Software Engineer | brightnight | TEXAS METROPOLITAN AREA | 2026-10-12 14:36 UTC | remote | [Apply](https://jaabz.com/jobs/283302-ui-engineer) |
-| UI/UX Designer | psc biotech® corporation | PHILIPPINES | 2026-10-12 14:32 UTC | remote | [Apply](https://jaabz.com/jobs/205028-uiux-designer) |
-| Senior Data Analyst | RAPSYS TECHNOLOGIES PTE LTD | MUMBAI METROPOLITAN REGION | 2026-10-12 14:09 UTC | remote | [Apply](https://jaabz.com/jobs/283293-data-analyst) |
-| CI/CD Engineer (Kubernetes) | BairesDev | LATIN AMERICA | 2026-10-12 13:50 UTC | remote | [Apply](https://jaabz.com/jobs/275461-cicd-engineer-kubernetes-remote-work) |
+| Senior Solutions Architect (AI & Cloud Engineering) - Client-Facing | fullstack | COLOMBIA | 2026-10-13 13:36 UTC | remote | [Apply](https://jaabz.com/jobs/283734-solutions-architect-pre-sales-delivery-remote-colombia) |
+| Technical Copywriter / IT Technical Writer | astek middle east | EGYPT | 2026-10-13 12:40 UTC | remote | [Apply](https://jaabz.com/jobs/283714-technical-copywriter-it-technical-writer-remote) |
+| SEO/AEO Manager (Fully Remote) | talenthop | United State | 2026-10-13 12:39 UTC | remote | [Apply](https://jaabz.com/jobs/283715-seoaeo-manager-internal) |
+| Staff Backend Engineer (Core Business Engineering) | tabby / تابي | POLAND | 2026-10-13 12:04 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/283651-staff-engineer) |
+| Senior Data Analyst / Business Intelligence Developer (QlikView & Power BI) | System Soft Technologies | United State | 2026-10-13 11:54 UTC | remote | [Apply](https://jaabz.com/jobs/283660-sr-qlikview-developer) |
+| Workday Quality Assurance Lead | Wipfli | United State | 2026-10-13 11:49 UTC | remote | [Apply](https://jaabz.com/jobs/283664-workday-quality-assurance-lead) |
+| Senior Product Manager - New & Strategic Initiatives | Jobgether | UNITED ARAB EMIRATES | 2026-10-13 11:25 UTC | remote | [Apply](https://jaabz.com/jobs/283680-product-manager-new-strategic-initiatives) |
+| Senior Site Reliability Engineer (Multi-Cloud & Network Security) - Blockchain Infrastructure | Jobgether | United State | 2026-10-13 11:23 UTC | remote | [Apply](https://jaabz.com/jobs/283683-site-reliability-engineer) |
+| Lead AI Systems Architect (Data-Centric AI & Multimodal) | Jobgether | SWITZERLAND | 2026-10-13 11:21 UTC | remote | [Apply](https://jaabz.com/jobs/283685-lead-ai-systems-architect-data-centric-ai-multimodal) |
+| Mid-level React Native Mobile Developer | darebyte | INDIA | 2026-10-13 11:18 UTC | remote | [Apply](https://jaabz.com/jobs/283687-react-native-developer) |
+| Product Owner / Product Manager | cleantasker : cleaning facility management application | AUSTRALIA | 2026-10-13 09:52 UTC | remote | [Apply](https://jaabz.com/jobs/283639-product-owner-with-project-manager-responsibilities) |
+| Senior Data Scientist (Remote) | Wave Mobile Money | United State | 2026-10-13 09:42 UTC | remote | [Apply](https://jaabz.com/jobs/283646-data-scientist) |
+| Growth Marketing Manager | talenthop | United State | 2026-10-13 09:36 UTC | remote | [Apply](https://jaabz.com/jobs/283488-growth-marketing-manager) |
+| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-13 09:36 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
+| UI and Design System Lead | gotymex | THAILAND | 2026-10-13 08:45 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/283608-product-designer-ui-and-design-system-expert-ho-chi-minh-city-vietnam) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
