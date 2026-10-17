@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-16 12:06** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-10-17 11:23** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| GRC Analyst II - Corporate | zoll medical corporation | United State | 2026-10-16 11:55 UTC | remote | [Apply](https://jaabz.com/jobs/285680-security-grc-analyst-ii) |
-| Remote Recruitment Specialist - Healthcare | ClearDesk | METRO MANILA | 2026-10-16 11:53 UTC | remote | [Apply](https://jaabz.com/jobs/285681-remote-recruitment-specialist) |
-| Senior CAD & Graphic Designer | comfrt | United State | 2026-10-16 10:45 UTC | remote | [Apply](https://jaabz.com/jobs/285637-cad-graphic-designer) |
-| Senior Python Backend Engineer | issoft ukraine 🇺🇦 | UKRAINE | 2026-10-16 10:40 UTC | remote | [Apply](https://jaabz.com/jobs/285641-python-developer-sports-sphere) |
-| Chief Human Resources Officer (CHRO) | echo initiative by joveo | INDIA | 2026-10-16 10:12 UTC | remote | [Apply](https://jaabz.com/jobs/285624-chief-human-resources-officer-chro) |
-| Senior QA Tester – Agentic Healthcare Web Applications (AI/Voice Agents) | MicroSourcing | PHILIPPINES | 2026-10-16 09:45 UTC | remote | [Apply](https://jaabz.com/jobs/285606-qa-tester-agentic-web-application-senior) |
-| Data Analyst, Glasgow Safe Haven (Fixed-term) | NHS Ayrshire & Arran | CANADA | 2026-10-16 08:56 UTC | remote, visa | [Apply](https://jaabz.com/jobs/285583-data-analyst-safe-haven-research-and-innovation) |
-| Senior Backend Software Engineer (Fintech, Distributed Systems) | talenthop | United State | 2026-10-16 08:49 UTC | remote, visa | [Apply](https://jaabz.com/jobs/274705-senior-software-engineer) |
-| Flutter Developer (Full-time, Remote) | hiicampus | INDIA | 2026-10-16 08:25 UTC | remote | [Apply](https://jaabz.com/jobs/285581-flutter-developer) |
-| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-16 08:21 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
-| Node.js Software Engineer | Tether.io | CAMBODIA | 2026-10-16 08:21 UTC | remote | [Apply](https://jaabz.com/jobs/265857-senior-nodejs-software-engineer-holepunch-100-remote-worldwide) |
-| Growth Marketing Manager | talenthop | United State | 2026-10-16 08:21 UTC | remote | [Apply](https://jaabz.com/jobs/283488-growth-marketing-manager) |
-| Frontend Developer | torentify | United State | 2026-10-16 07:28 UTC | remote | [Apply](https://jaabz.com/jobs/285561-frontend-developer-remote) |
-| Full-time Remote Website Tester | egotechworld | AUSTRALIA | 2026-10-16 07:05 UTC | remote | [Apply](https://jaabz.com/jobs/285558-remote-tester) |
-| Compliance and InfoSec Analyst (Mid-Level) | sleekflow | HONG KONG SAR | 2026-10-16 06:08 UTC | remote | [Apply](https://jaabz.com/jobs/266560-compliance-and-information-security-analyst) |
+| Senior Security Engineer & Compliance Lead | sofar ocean | SAN FRANCISCO BAY AREA | 2026-10-17 10:12 UTC | remote, visa | [Apply](https://jaabz.com/jobs/286149-security-it-engineer) |
+| Forward Deployed Engineer | n8n | UNITED KINGDOM | 2026-10-17 10:09 UTC | remote, visa | [Apply](https://jaabz.com/jobs/261327-forward-deployed-engineer-emea) |
+| Insurance Product Analyst IV – Product Intelligence (Digital Analytics & Strategy) | csaa insurance group | United State | 2026-10-17 09:47 UTC | remote | [Apply](https://jaabz.com/jobs/286135-insurance-product-analyst-iv-product-intelligence-remote) |
+| Senior ASIC Verification Automation Engineer (AI & HPC Networking) | Cornelis Networks | United State | 2026-10-17 09:13 UTC | remote | [Apply](https://jaabz.com/jobs/286132-senior-asic-verification-automation-engineer) |
+| Senior Data Engineer (Healthcare Data & Value-Based Care Systems) | karoo health | United State | 2026-10-17 08:45 UTC | remote | [Apply](https://jaabz.com/jobs/286128-sr-data-engineer) |
+| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-17 08:43 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
+| Senior Manager, People Systems & Workforce Insights | csaa insurance group | United State | 2026-10-17 07:57 UTC | remote | [Apply](https://jaabz.com/jobs/286118-sr-manager-people-systems-workforce-insights-remote) |
+| Senior Software QA Analyst (Manual Testing) - Remote | Input 1 | United State | 2026-10-17 07:55 UTC | remote | [Apply](https://jaabz.com/jobs/286121-software-qa-tester) |
+| Senior Frontend Engineer (Communication Platforms) | talenthop | United State | 2026-10-17 07:54 UTC | remote | [Apply](https://jaabz.com/jobs/286122-frontend-engineer) |
+| Senior Backend Engineer (AWS) - Cloud-Native Development & Infrastructure | torentify | United State | 2026-10-17 06:42 UTC | remote | [Apply](https://jaabz.com/jobs/286110-backend-engineer-iiaws) |
+| Vice President of Marketing (Global) – Digital Solutions & Enterprise Growth | neltech incorporation | United State | 2026-10-17 06:18 UTC | remote | [Apply](https://jaabz.com/jobs/286109-vice-president-of-marketing) |
+| AI Image Specialist | Puffy | PORTUGAL | 2026-10-17 05:50 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/273728-ai-image-designer) |
+| Chief Product Officer (AI-Powered B2B SaaS) | seby | PHILIPPINES | 2026-10-17 05:26 UTC | remote | [Apply](https://jaabz.com/jobs/286098-chief-product-officer) |
+| Marketing Operations Manager | avolve | United State | 2026-10-17 05:25 UTC | remote | [Apply](https://jaabz.com/jobs/286099-marketing-operations-manager) |
+| Senior Product Marketing Manager (Post-Close Activation & Go-to-Market) | audiohook | United State | 2026-10-17 03:57 UTC | remote | [Apply](https://jaabz.com/jobs/286092-product-marketing-manager) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
