@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-21 12:43** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-10-22 12:47** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| DevOps Engineer - Infrastructure as Code | reel it groupe | FRANCE | 2026-10-21 12:32 UTC | remote | [Apply](https://jaabz.com/jobs/288577-devops-full-remote-hf) |
-| Manual QA Engineer | covergo / insurtech | INDONESIA | 2026-10-21 12:14 UTC | remote | [Apply](https://jaabz.com/jobs/279900-senior-software-qa-engineer-manual-testing) |
-| Senior Python Backend Developer | GoReel | POLAND | 2026-10-21 12:14 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/288560-senior-python-developer) |
-| Performance Marketing Manager | carpe diem team | PAKISTAN | 2026-10-21 11:29 UTC | remote | [Apply](https://jaabz.com/jobs/288529-performance-marketing-manager) |
-| Marketing Manager | greentree advisory services pvt ltd | INDIA | 2026-10-21 11:28 UTC | remote | [Apply](https://jaabz.com/jobs/288530-marketing-manager) |
-| Senior Website Developer & Designer (WordPress/Elementor) | spredx | SOUTH AFRICA | 2026-10-21 09:31 UTC | remote | [Apply](https://jaabz.com/jobs/288461-web-developer) |
-| Senior DevOps Engineer (Enterprise Git & CI/CD Strategy) | talenthop | United State | 2026-10-21 09:30 UTC | remote | [Apply](https://jaabz.com/jobs/288462-devops-engineer-mid-senior-level) |
-| Influencer & Affiliate Marketing Manager | windsor.ai | POLAND | 2026-10-21 09:29 UTC | remote | [Apply](https://jaabz.com/jobs/274877-influencer-partnerships-manager) |
-| Technical Writer - AI Data Infrastructure | hud | United States | 2026-10-21 09:12 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/283546-technical-writer) |
-| Senior AI/ML Engineer - Enterprise AI Systems & Production AI Services | remotehunter | United State | 2026-10-21 09:10 UTC | remote, visa | [Apply](https://jaabz.com/jobs/287358-senior-aiml-engineer) |
-| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-21 08:29 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
-| Growth Marketing Manager | talenthop | United States | 2026-10-21 08:06 UTC | remote | [Apply](https://jaabz.com/jobs/283488-growth-marketing-manager) |
-| Senior Product Lead, Agentic Personalization (AI-Driven Enterprise SaaS) | talenthop | United State | 2026-10-21 08:05 UTC | remote, visa | [Apply](https://jaabz.com/jobs/287019-product-lead-agentic-personalization) |
-| Founding AI/ML Engineer (Construction Industry Automation) | Jobgether | United State | 2026-10-21 07:23 UTC | remote, visa | [Apply](https://jaabz.com/jobs/288423-founding-aiml-engineer) |
-| Senior Backend Software Engineer (Fintech, Distributed Systems) | talenthop | United States | 2026-10-21 07:03 UTC | remote, visa | [Apply](https://jaabz.com/jobs/274705-senior-software-engineer) |
+| Senior Frontend Engineer (React, TypeScript) - Fintech SaaS | eltropy | INDIA | 2026-10-22 12:11 UTC | remote | [Apply](https://jaabz.com/jobs/289151-senior-frontend-engineer) |
+| Senior DevOps Engineer (Enterprise CI/CD & Git Platform Standardization) | Jobgether | United State | 2026-10-22 11:46 UTC | remote | [Apply](https://jaabz.com/jobs/289130-devops-engineer-mid-senior-level) |
+| Senior Full Stack Developer (Next.js) - SEO & Web Performance Specialist | Foodhutz | NIGERIA | 2026-10-22 10:20 UTC | remote | [Apply](https://jaabz.com/jobs/289105-nextjs-developer) |
+| Senior Product Manager - Data Solutions (Public Sector SaaS) | DataCareers | UNITED KINGDOM | 2026-10-22 10:07 UTC | remote | [Apply](https://jaabz.com/jobs/289100-product-manager) |
+| Lifecycle Marketing Manager (Fully Remote) | talenthop | United State | 2026-10-22 10:06 UTC | remote | [Apply](https://jaabz.com/jobs/289101-lifecycle-marketing-manager) |
+| Senior Information Security Manager (ISMS & Governance) | itdesign gmbh | GERMANY | 2026-10-22 09:41 UTC | remote | [Apply](https://jaabz.com/jobs/288119-information-security-manager-mwd) |
+| Senior SEO Growth Manager (Affiliate Marketing) | We Love X | GERMANY | 2026-10-22 09:29 UTC | remote | [Apply](https://jaabz.com/jobs/289083-teamlead-seo-affiliate-marketing-content-mwd) |
+| Senior Backend Engineer (Python) – Fraud Detection & AI Systems | suntech innovation | UNITED ARAB EMIRATES | 2026-10-22 09:27 UTC | remote, visa | [Apply](https://jaabz.com/jobs/289075-strong-middle-python-backend-engineer-real-time-data-ai) |
+| Technical Account Manager - Enterprise Customer Success | n8n | IRELAND | 2026-10-22 09:02 UTC | remote, visa | [Apply](https://jaabz.com/jobs/263140-technical-account-manager-remote-europe) |
+| Senior Backend Software Engineer (Node.js/TypeScript, AWS) | bluelight | BRAZIL | 2026-10-22 08:57 UTC | remote | [Apply](https://jaabz.com/jobs/289056-full-stack-and-backend-nodejs-typescriptjavascript-engineer-senior-latin-america-remote) |
+| Senior Java Developer (Cross-Domain Security Systems) - Agile Team | Haystack | UNITED KINGDOM | 2026-10-22 08:39 UTC | remote | [Apply](https://jaabz.com/jobs/289055-java-software-engineer) |
+| Growth Marketing Manager | talenthop | United States | 2026-10-22 08:26 UTC | remote | [Apply](https://jaabz.com/jobs/283488-growth-marketing-manager) |
+| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-22 08:26 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
+| Senior Backend Software Engineer (AI-Assisted Development) | talenthop | United State | 2026-10-22 08:16 UTC | remote | [Apply](https://jaabz.com/jobs/289042-software-engineer) |
+| Senior Product & Web Designer (UI/UX) - SaaS Platform | Action1 | PORTUGAL | 2026-10-22 08:03 UTC | remote | [Apply](https://jaabz.com/jobs/289025-product-web-designer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
