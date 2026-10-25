@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-24 11:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-10-25 12:21** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior/Staff Backend Engineer (AI Search) – Fully Remote | matcha.fm | United State | 2026-10-24 11:07 UTC | remote | [Apply](https://jaabz.com/jobs/290112-senior-staff-principal-backend-engineer-ai-search-remote-worldwide-up-to-185k) |
-| Senior 3D Artist (Unity/Blender) – Remote | happy lemon games | VIETNAM | 2026-10-24 11:06 UTC | remote | [Apply](https://jaabz.com/jobs/290059-3d-artist-unity) |
-| Senior Frontend Engineer (React & TypeScript) | BairesDev | BRAZIL | 2026-10-24 11:06 UTC | remote | [Apply](https://jaabz.com/jobs/284650-senior-react-typescript-engineer-remote-work-ref305789) |
-| Full-Time Remote Data Analyst (F-1/STEM OPT Eligible) | databridge talent solutions | TEXAS METROPOLITAN AREA | 2026-10-24 11:05 UTC | remote | [Apply](https://jaabz.com/jobs/290098-data-analyst-f-1-stem-opt-candidates) |
-| Senior Web Development Lead (WordPress & Full-Stack) | torentify | United State | 2026-10-24 10:17 UTC | remote | [Apply](https://jaabz.com/jobs/290090-wordpress-developer-ii-usa-remote) |
-| Senior Graphic Designer (Presentation & Digital Content) | sotalent | United State | 2026-10-24 10:16 UTC | remote | [Apply](https://jaabz.com/jobs/290091-graphic-designer) |
-| Senior Technical Recruiter (Cybersecurity & Cloud Compliance) | Fortreum | United State | 2026-10-24 09:23 UTC | remote | [Apply](https://jaabz.com/jobs/290070-technical-recruiter) |
-| Frontend Engineer (React/TypeScript) - Fully Remote | torentify | United State | 2026-10-24 09:22 UTC | remote | [Apply](https://jaabz.com/jobs/290071-frontend-developer) |
-| Senior Software Engineer - Chat Platform & Conversational Interfaces | Félix | GREATER RIO DE JANEIRO | 2026-10-24 08:52 UTC | remote | [Apply](https://jaabz.com/jobs/279853-senior-full-stack-software-engineer-brazil) |
-| Senior WordPress Developer (Remote) | zynvex solutions | PAKISTAN | 2026-10-24 08:23 UTC | remote | [Apply](https://jaabz.com/jobs/290063-wordpress-developer-remote) |
-| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-24 08:22 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
-| Senior Network Security Engineer (Palo Alto Firewalls) - Remote (Scotland) | MCS Group / Your Specialist Recruitment Consultancy | UNITED KINGDOM | 2026-10-24 07:31 UTC | remote | [Apply](https://jaabz.com/jobs/290060-network-security-engineer) |
-| Senior Java Developer | KCS iT | PORTUGAL | 2026-10-24 07:30 UTC | remote | [Apply](https://jaabz.com/jobs/236718-java-developer) |
-| Senior DevOps Engineer | Thermo Fisher Scientific | INDIA | 2026-10-24 06:16 UTC | remote | [Apply](https://jaabz.com/jobs/271907-senior-devops-engineer) |
-| Senior Vice President of Data Science (Remote) | hired | INDIA | 2026-10-24 04:24 UTC | remote | [Apply](https://jaabz.com/jobs/286726-vp-of-data-analysis) |
+| Senior Security Engineer - Corporate Security | Rippling | United States | 2026-10-25 12:10 UTC | remote | [Apply](https://jaabz.com/jobs/106794-senior-security-engineer-corporate-security) |
+| Senior PPC Specialist (Paid Search & Performance Marketing) | Pawfy | UNITED KINGDOM | 2026-10-25 12:10 UTC | remote | [Apply](https://jaabz.com/jobs/290488-ppc-specialist) |
+| Sr Performance Engineer | Omnissa | INDIA | 2026-10-25 11:10 UTC | remote | [Apply](https://jaabz.com/jobs/271577-sr-performance-engineer) |
+| Senior & Lead Product Engineer (Python/Django/FastAPI) - AI Infrastructure & Healthcare | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-25 10:49 UTC | remote | [Apply](https://jaabz.com/jobs/290479-senior-lead-product-engineers-python-focused-django-fastapi-aws-javascript-building-human-intelligence-ai-infra-research-healthcare-remote-uk-aps80-130k-base-bonus-equity) |
+| Senior 3D Environment Designer (Remote) | invinity media | SERBIA | 2026-10-25 09:43 UTC | remote | [Apply](https://jaabz.com/jobs/290449-senior-3d-enviroment-designer) |
+| Mid‑Senior Level .NET Developer – SaaS Platform (Remote) | Jobot | United States | 2026-10-25 09:42 UTC | remote | [Apply](https://jaabz.com/jobs/277193-net-developer) |
+| Global Scientific Talent – Overseas Talent Program (Innovation, Young, or Postdoctoral Track) | jiangsu surun talent development group co., ltd. | AUSTRALIA | 2026-10-25 09:42 UTC | remote | [Apply](https://jaabz.com/jobs/287083-scientist) |
+| Senior Product Manager, B2B SaaS | Jobot | United States | 2026-10-25 09:29 UTC | remote | [Apply](https://jaabz.com/jobs/277349-sr-product-manager) |
+| Unity Game Developer | happy lemon games | VIETNAM | 2026-10-25 09:16 UTC | remote | [Apply](https://jaabz.com/jobs/275447-unity-game-developer-remote-job) |
+| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-25 09:04 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
+| AI Software Developer (F-1/OPT/STEM OPT) – Full-Time Remote | techlyntra solutions | United State | 2026-10-25 08:23 UTC | remote | [Apply](https://jaabz.com/jobs/290428-ai-software-developer-f-1-opt-stem-opt) |
+| Senior Manager, Brand & Creative Strategy | SCAN | United State | 2026-10-25 08:22 UTC | remote | [Apply](https://jaabz.com/jobs/290429-senior-manager-brand-creative) |
+| Marketing Project Manager | Tahaluf | SAUDI ARABIA | 2026-10-25 08:21 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/148910-project-manager-marketing-saudi-national) |
+| Senior UI/UX Web Designer | torentify | United State | 2026-10-25 08:10 UTC | remote | [Apply](https://jaabz.com/jobs/290427-uiux-designer-fully-remote) |
+| Senior Brand Designer (Remote) | the ethereal agency | INDIA | 2026-10-25 07:28 UTC | remote | [Apply](https://jaabz.com/jobs/290425-brand-designer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
