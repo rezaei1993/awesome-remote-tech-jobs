@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-25 12:21** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-10-26 13:54** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Security Engineer - Corporate Security | Rippling | United States | 2026-10-25 12:10 UTC | remote | [Apply](https://jaabz.com/jobs/106794-senior-security-engineer-corporate-security) |
-| Senior PPC Specialist (Paid Search & Performance Marketing) | Pawfy | UNITED KINGDOM | 2026-10-25 12:10 UTC | remote | [Apply](https://jaabz.com/jobs/290488-ppc-specialist) |
-| Sr Performance Engineer | Omnissa | INDIA | 2026-10-25 11:10 UTC | remote | [Apply](https://jaabz.com/jobs/271577-sr-performance-engineer) |
-| Senior & Lead Product Engineer (Python/Django/FastAPI) - AI Infrastructure & Healthcare | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-25 10:49 UTC | remote | [Apply](https://jaabz.com/jobs/290479-senior-lead-product-engineers-python-focused-django-fastapi-aws-javascript-building-human-intelligence-ai-infra-research-healthcare-remote-uk-aps80-130k-base-bonus-equity) |
-| Senior 3D Environment Designer (Remote) | invinity media | SERBIA | 2026-10-25 09:43 UTC | remote | [Apply](https://jaabz.com/jobs/290449-senior-3d-enviroment-designer) |
-| Mid‑Senior Level .NET Developer – SaaS Platform (Remote) | Jobot | United States | 2026-10-25 09:42 UTC | remote | [Apply](https://jaabz.com/jobs/277193-net-developer) |
-| Global Scientific Talent – Overseas Talent Program (Innovation, Young, or Postdoctoral Track) | jiangsu surun talent development group co., ltd. | AUSTRALIA | 2026-10-25 09:42 UTC | remote | [Apply](https://jaabz.com/jobs/287083-scientist) |
-| Senior Product Manager, B2B SaaS | Jobot | United States | 2026-10-25 09:29 UTC | remote | [Apply](https://jaabz.com/jobs/277349-sr-product-manager) |
-| Unity Game Developer | happy lemon games | VIETNAM | 2026-10-25 09:16 UTC | remote | [Apply](https://jaabz.com/jobs/275447-unity-game-developer-remote-job) |
-| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-25 09:04 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
-| AI Software Developer (F-1/OPT/STEM OPT) – Full-Time Remote | techlyntra solutions | United State | 2026-10-25 08:23 UTC | remote | [Apply](https://jaabz.com/jobs/290428-ai-software-developer-f-1-opt-stem-opt) |
-| Senior Manager, Brand & Creative Strategy | SCAN | United State | 2026-10-25 08:22 UTC | remote | [Apply](https://jaabz.com/jobs/290429-senior-manager-brand-creative) |
-| Marketing Project Manager | Tahaluf | SAUDI ARABIA | 2026-10-25 08:21 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/148910-project-manager-marketing-saudi-national) |
-| Senior UI/UX Web Designer | torentify | United State | 2026-10-25 08:10 UTC | remote | [Apply](https://jaabz.com/jobs/290427-uiux-designer-fully-remote) |
-| Senior Brand Designer (Remote) | the ethereal agency | INDIA | 2026-10-25 07:28 UTC | remote | [Apply](https://jaabz.com/jobs/290425-brand-designer) |
+| Senior QA Engineer (Web) - Remote (Brazil) | Jobgether | BRAZIL | 2026-10-26 13:42 UTC | remote | [Apply](https://jaabz.com/jobs/290912-senior-qa-engineer-web) |
+| Senior Go Developer (Private Cloud Platform) - Fully Remote | Software Mind | POLAND | 2026-10-26 13:26 UTC | remote | [Apply](https://jaabz.com/jobs/290902-go-developer-private-cloud) |
+| Javascript AUTOMATION TESTER (QAE) (HYBRID @Porto) | KCS iT | PORTUGAL | 2026-10-26 13:23 UTC | remote | [Apply](https://jaabz.com/jobs/271427-javascript-automation-tester-qae-hybrid-at-porto) |
+| Experienced DevSecOps Engineer | Serco | United States | 2026-10-26 13:23 UTC | remote | [Apply](https://jaabz.com/jobs/275706-experienced-devsecops-engineer-1) |
+| Senior Backend Golang Engineer | Miratech | UKRAINE | 2026-10-26 13:23 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/272240-senior-backend-golang-engineer) |
+| UI/UX Designer | psc biotech® corporation | PHILIPPINES | 2026-10-26 12:57 UTC | remote | [Apply](https://jaabz.com/jobs/205028-uiux-designer) |
+| Middle Atlassian Administrator | cryptoprocessing by coinspaid | ESTONIA | 2026-10-26 12:22 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/290856-atlassian-products-administrator-middle) |
+| Senior Manager – Product Operations (Bilingual FR/ENG) | beacon power services | WESTERN AFRICA | 2026-10-26 12:19 UTC | remote | [Apply](https://jaabz.com/jobs/290860-bilingual-freng-senior-manager-a-product-operations) |
+| Head of Growth & Demand Generation | pixofix | UKRAINE | 2026-10-26 12:18 UTC | remote | [Apply](https://jaabz.com/jobs/290861-growth-marketing-manager) |
+| Senior IP Control & PCE Engineer | SEGULA Technologies | MEXICO | 2026-10-26 11:28 UTC | remote | [Apply](https://jaabz.com/jobs/290838-project-cost-engineer-interiors) |
+| Growth Manager | AvantStay | ARGENTINA | 2026-10-26 11:19 UTC | remote | [Apply](https://jaabz.com/jobs/290828-growth-manager) |
+| Full-Stack Blockchain Developer (Frontend & Backend) for dApps & PWAs | blockchain  aiweb3 group | INDIA | 2026-10-26 11:14 UTC | remote | [Apply](https://jaabz.com/jobs/264548-fullstack-backend-frontend-developer-php-laravel-react-js-pwa) |
+| Senior React Native Engineer | itrex group | UKRAINE | 2026-10-26 10:59 UTC | remote | [Apply](https://jaabz.com/jobs/290816-react-native-engineer) |
+| Growth & Marketing Manager | verto | UNITED ARAB EMIRATES | 2026-10-26 10:57 UTC | remote | [Apply](https://jaabz.com/jobs/271663-growth-marketing-manager) |
+| Senior/Principal Technology Recruitment Consultant | trm recruitment | UNITED KINGDOM | 2026-10-26 10:39 UTC | remote | [Apply](https://jaabz.com/jobs/290802-seniorprincipal-technology-recruitment-consultant-remote-or-hybrid) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
