@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-27 12:59** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-10-28 13:50** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Lead Network Automation Architect | Miratech | INDIA | 2026-10-27 12:37 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/245078-lead-network-automation-architect) |
-| Senior Operations Research Engineer (Workforce Management Optimization) | Miratech | CANADA | 2026-10-27 11:58 UTC | remote | [Apply](https://jaabz.com/jobs/291359-operations-research-engineer) |
-| Senior Product Data Analyst - Payments & Financial Services (Fully Remote) | talenthop | United State | 2026-10-27 11:50 UTC | remote | [Apply](https://jaabz.com/jobs/291370-senior-product-data-analyst-payments-financial-services) |
-| Senior Content Marketing Manager (Cybersecurity & Digital Risk Protection) | talenthop | United State | 2026-10-27 11:49 UTC | remote | [Apply](https://jaabz.com/jobs/291372-content-marketing-manager) |
-| Senior CRM Manager (Lifecycle Marketing & Customer Engagement) | 3Search | UNITED KINGDOM | 2026-10-27 11:47 UTC | remote | [Apply](https://jaabz.com/jobs/291371-crm-manager) |
-| Mid-Senior Software Developer (Backend & AI Agents) | alxicorn | BANGLADESH | 2026-10-27 10:45 UTC | remote | [Apply](https://jaabz.com/jobs/282846-senior-software-engineer) |
-| Senior/Staff Backend Engineer (AI Search) – Fully Remote | matcha.fm | United State | 2026-10-27 10:20 UTC | remote | [Apply](https://jaabz.com/jobs/290112-senior-staff-principal-backend-engineer-ai-search-remote-worldwide-up-to-185k) |
-| Lead Engineer - Unreal Engine 5 | void interactive | IRELAND | 2026-10-27 09:51 UTC | remote | [Apply](https://jaabz.com/jobs/291309-lead-engineer-unreal) |
-| Senior IT Project Manager (Global Digital Transformation) - FMCG Sector | Experis España | SPAIN | 2026-10-27 09:48 UTC | remote | [Apply](https://jaabz.com/jobs/289288-it-project-manager-con-inglas-alto-100-remoto-hmx) |
-| Head of Product - Search (d/f/m) | ImmoScout24 | GERMANY | 2026-10-27 09:48 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/6149-head-of-product-search-dfm) |
-| Senior C++ Backend Developer (Remote, Ireland-Based) | fruition group ireland | IRELAND | 2026-10-27 09:25 UTC | remote | [Apply](https://jaabz.com/jobs/287075-c-software-engineer) |
-| Senior Software Engineer, AI Agents (AI/ML Product Development) | remotehunter | United State | 2026-10-27 09:24 UTC | remote, visa | [Apply](https://jaabz.com/jobs/291079-software-engineer-ai-agents) |
-| Senior .NET Software Architect (Azure, Microservices) | accelerec ltd. | PAKISTAN | 2026-10-27 08:58 UTC | remote, visa | [Apply](https://jaabz.com/jobs/277737-software-architect) |
-| Senior Backend Software Engineer (AI-Assisted Development) | talenthop | United State | 2026-10-27 08:38 UTC | remote | [Apply](https://jaabz.com/jobs/289042-software-engineer) |
-| Growth Marketing Manager | talenthop | United States | 2026-10-27 08:38 UTC | remote | [Apply](https://jaabz.com/jobs/283488-growth-marketing-manager) |
+| Senior C++ Developer (Trading Systems) - High-Performance Market Infrastructure | dou polska | POLAND | 2026-10-28 13:29 UTC | remote | [Apply](https://jaabz.com/jobs/292063-middle-strong-c-developer-remote) |
+| Chief People Officer (AI Access Initiative) | Evidence Action | United State | 2026-10-28 13:28 UTC | remote | [Apply](https://jaabz.com/jobs/292065-chief-people-officer-the-ai-access-initiative) |
+| Senior Technical Business Analyst - Full Remote (Portugal) | KCS iT | PORTUGAL | 2026-10-28 13:27 UTC | remote | [Apply](https://jaabz.com/jobs/239467-technical-business-analyst) |
+| Senior .NET Developer (Full Remote, Portugal) | KCS iT | PORTUGAL | 2026-10-28 13:14 UTC | remote | [Apply](https://jaabz.com/jobs/221007-net-developer) |
+| Senior Full Stack Engineer | DualEntry | LATIN AMERICA | 2026-10-28 13:12 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/285695-applied-engineer-remote) |
+| Senior DevOps Engineer | KCS iT | PORTUGAL | 2026-10-28 13:01 UTC | remote | [Apply](https://jaabz.com/jobs/135948-devops-engineer) |
+| Senior Data Engineer (Scalable Data Platform & Analytics) | Burns Sheehan | UNITED KINGDOM | 2026-10-28 12:24 UTC | remote | [Apply](https://jaabz.com/jobs/292023-senior-data-engineer) |
+| Senior Security Engineer | BairesDev | CHILE | 2026-10-28 12:23 UTC | remote | [Apply](https://jaabz.com/jobs/284299-senior-security-engineer-remote-work-ref305905) |
+| Senior BI Developer / Data Engineer (Microsoft Fabric & Power BI) | bridge351 | PORTUGAL | 2026-10-28 11:58 UTC | remote, visa | [Apply](https://jaabz.com/jobs/292013-data-engineering-azure-fabricdatabricks-powerbi) |
+| Growth Operations Manager (HubSpot CRM) – Remote | talenthop | United State | 2026-10-28 11:21 UTC | remote | [Apply](https://jaabz.com/jobs/292002-growth-operations-manager-hubspot-carey-co) |
+| Senior Cyber Security Architect (Remote) | clear infosec | INDIA | 2026-10-28 11:06 UTC | remote | [Apply](https://jaabz.com/jobs/291989-cyber-security-architect) |
+| Lead Network Automation Architect | Miratech | INDIA | 2026-10-28 10:39 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/245078-lead-network-automation-architect) |
+| Senior Backend Engineer (Python/Django) – AI-Driven Property Tech Platform | Plentific | UNITED KINGDOM | 2026-10-28 10:16 UTC | remote | [Apply](https://jaabz.com/jobs/291976-back-end-developer) |
+| Senior CRM Manager (Director Track) – Customer Growth & Retention | supplement hub | GERMANY | 2026-10-28 09:47 UTC | remote | [Apply](https://jaabz.com/jobs/291960-senior-crm-manager-mwd-100-remote) |
+| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-28 09:46 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
