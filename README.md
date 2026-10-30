@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-29 13:56** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-10-30 13:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Endpoint and Digital Workplace Engineer | park national bank | GREATER ORLANDO | 2026-10-29 13:45 UTC | remote | [Apply](https://jaabz.com/jobs/292522-cloud-endpoint-engineer) |
-| Fullstack Engineer (AI-Powered Funnel Builder) - End-to-End Ownership | funnelfox | SERBIA | 2026-10-29 13:18 UTC | remote | [Apply](https://jaabz.com/jobs/292516-fullstack-engineer) |
-| Remote Senior or Staff Software Engineer - Ruby, Rails, and Agentic AI | CyberCoders | United States | 2026-10-29 13:17 UTC | remote | [Apply](https://jaabz.com/jobs/282884-remote-sr-or-staff-engineer-150-240k-ruby-rails-agentic-ai) |
-| Senior Talent Acquisition Manager (MEP/Engineering & Construction) | legence | United States | 2026-10-29 13:17 UTC | remote | [Apply](https://jaabz.com/jobs/274006-talent-acquisition-manager) |
-| Lead Product Data Analyst | LawnStarter | BRAZIL | 2026-10-29 12:47 UTC | remote | [Apply](https://jaabz.com/jobs/276175-lead-product-data-analyst) |
-| Affiliate & Influencer Partnership Manager (Performance Marketing) | insurancerevenue.com | BRAZIL | 2026-10-29 12:15 UTC | remote | [Apply](https://jaabz.com/jobs/292486-affiliate-influencer-partnership-manager) |
-| Senior DevOps Engineer (AI-Driven Infrastructure & Cloud) | torentify | United State | 2026-10-29 11:58 UTC | remote | [Apply](https://jaabz.com/jobs/292485-devops-engineer-sr-wfh) |
-| Junior Web Developer (WordPress & Frontend) - Remote | Rotate Digital | EMEA | 2026-10-29 11:46 UTC | remote | [Apply](https://jaabz.com/jobs/292472-junior-web-developer) |
-| Business Intelligence Analyst (Tableau & SQL) | casumo | MALTA | 2026-10-29 11:42 UTC | remote | [Apply](https://jaabz.com/jobs/292438-business-intelligence-analyst) |
-| Senior Web Designer (Data-Driven Digital Experiences) - Remote (Australia) | Jobgether | AUSTRALIA | 2026-10-29 11:30 UTC | remote | [Apply](https://jaabz.com/jobs/292461-senior-web-designer) |
-| Senior/Staff Backend Engineer (AI Search) – Fully Remote | matcha.fm | United State | 2026-10-29 11:24 UTC | remote | [Apply](https://jaabz.com/jobs/290112-senior-staff-principal-backend-engineer-ai-search-remote-worldwide-up-to-185k) |
-| HR Manager -Global People Operations | grant thornton ireland | IRELAND | 2026-10-29 10:37 UTC | remote | [Apply](https://jaabz.com/jobs/270294-hr-manager-global-people-operations) |
-| Senior Backend Golang Engineer | Miratech | UKRAINE | 2026-10-29 10:36 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/272240-senior-backend-golang-engineer) |
-| Senior Staff Software Engineer (Full Stack, Remote) | Motion Recruitment | United State | 2026-10-29 10:26 UTC | remote | [Apply](https://jaabz.com/jobs/292436-staff-php-engineer-remote) |
-| Creative Director, YouTube Educational Content (Remote) | Dragonfruit | EMEA | 2026-10-29 10:25 UTC | remote | [Apply](https://jaabz.com/jobs/292437-creative-director) |
+| Vice President of Product Management (Medium-Voltage UPS Systems) - Data Center Power Infrastructure | on.energy | United State | 2026-10-30 13:48 UTC | remote | [Apply](https://jaabz.com/jobs/293066-vp-of-product-management) |
+| Associate Business Engineer (Integration & Automation) | hrcap, inc. | United State | 2026-10-30 13:32 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293081-associate-business-engineer) |
+| Senior Agile Engineering Leader & Delivery Metrics Specialist | recruiterforge | United State | 2026-10-30 13:31 UTC | remote | [Apply](https://jaabz.com/jobs/293082-scrum-master-remote) |
+| Junior Cybersecurity Analyst - Fully Remote | hrcap, inc. | United States | 2026-10-30 13:30 UTC | remote, visa | [Apply](https://jaabz.com/jobs/251861-cyber-security-analyst) |
+| Senior Backend Engineer (Distributed Systems & Python/Django) | issoft georgia | United State | 2026-10-30 13:15 UTC | remote | [Apply](https://jaabz.com/jobs/293075-python-developer-sports-sphere) |
+| Senior Data Engineer (Databricks & Spark Specialist) - Remote | System Soft Technologies | United State | 2026-10-30 13:03 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293065-databricks-data-engineer) |
+| Senior Golang Backend Engineer (Consumer-Facing Products) | a5 labs | TAIWAN | 2026-10-30 13:01 UTC | remote | [Apply](https://jaabz.com/jobs/293069-senior-golang-backend-engineer-a-consumer-products) |
+| Staff Security Operations Engineer (SecOps) | Pleo | SPAIN | 2026-10-30 13:00 UTC | remote | [Apply](https://jaabz.com/jobs/293070-staff-security-operations-engineer) |
+| Senior Data Engineer | BairesDev | CHILE | 2026-10-30 12:59 UTC | remote | [Apply](https://jaabz.com/jobs/284094-data-engineer-remote-work) |
+| Senior Backend (Node.js) Engineer – AI Automation & Integration | medvidi | United State | 2026-10-30 12:48 UTC | remote | [Apply](https://jaabz.com/jobs/293061-senior-backend-nodejs-engineer) |
+| Lead Growth Analyst (Growth Analytics & Experimentation) | Harnham | UNITED KINGDOM | 2026-10-30 12:46 UTC | remote | [Apply](https://jaabz.com/jobs/293063-lead-growth-analyst-marketing) |
+| Senior Content Designer (Healthcare Digital Experience) | Félix | CANADA | 2026-10-30 12:16 UTC | remote | [Apply](https://jaabz.com/jobs/293046-sr-content-designer) |
+| Email Marketing Manager (B2C Subscription Product) - Switzerland | Jobgether | SWITZERLAND | 2026-10-30 11:37 UTC | remote | [Apply](https://jaabz.com/jobs/293034-email-marketing-manager) |
+| Senior SEO Performance Manager (iGaming/Competitive Search) | Paradise Media | MALTA | 2026-10-30 11:36 UTC | remote | [Apply](https://jaabz.com/jobs/288634-seo-performance-manager) |
+| Growth Marketing & Automation Manager (Lead Generation & AI-Driven Scaling) | scale army careers | NORTHERN AFRICA | 2026-10-30 11:22 UTC | remote | [Apply](https://jaabz.com/jobs/292867-growth-marketing-automation-manager) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
