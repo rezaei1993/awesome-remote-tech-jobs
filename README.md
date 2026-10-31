@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-30 13:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-10-31 13:19** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Vice President of Product Management (Medium-Voltage UPS Systems) - Data Center Power Infrastructure | on.energy | United State | 2026-10-30 13:48 UTC | remote | [Apply](https://jaabz.com/jobs/293066-vp-of-product-management) |
-| Associate Business Engineer (Integration & Automation) | hrcap, inc. | United State | 2026-10-30 13:32 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293081-associate-business-engineer) |
-| Senior Agile Engineering Leader & Delivery Metrics Specialist | recruiterforge | United State | 2026-10-30 13:31 UTC | remote | [Apply](https://jaabz.com/jobs/293082-scrum-master-remote) |
-| Junior Cybersecurity Analyst - Fully Remote | hrcap, inc. | United States | 2026-10-30 13:30 UTC | remote, visa | [Apply](https://jaabz.com/jobs/251861-cyber-security-analyst) |
-| Senior Backend Engineer (Distributed Systems & Python/Django) | issoft georgia | United State | 2026-10-30 13:15 UTC | remote | [Apply](https://jaabz.com/jobs/293075-python-developer-sports-sphere) |
-| Senior Data Engineer (Databricks & Spark Specialist) - Remote | System Soft Technologies | United State | 2026-10-30 13:03 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293065-databricks-data-engineer) |
-| Senior Golang Backend Engineer (Consumer-Facing Products) | a5 labs | TAIWAN | 2026-10-30 13:01 UTC | remote | [Apply](https://jaabz.com/jobs/293069-senior-golang-backend-engineer-a-consumer-products) |
-| Staff Security Operations Engineer (SecOps) | Pleo | SPAIN | 2026-10-30 13:00 UTC | remote | [Apply](https://jaabz.com/jobs/293070-staff-security-operations-engineer) |
-| Senior Data Engineer | BairesDev | CHILE | 2026-10-30 12:59 UTC | remote | [Apply](https://jaabz.com/jobs/284094-data-engineer-remote-work) |
-| Senior Backend (Node.js) Engineer – AI Automation & Integration | medvidi | United State | 2026-10-30 12:48 UTC | remote | [Apply](https://jaabz.com/jobs/293061-senior-backend-nodejs-engineer) |
-| Lead Growth Analyst (Growth Analytics & Experimentation) | Harnham | UNITED KINGDOM | 2026-10-30 12:46 UTC | remote | [Apply](https://jaabz.com/jobs/293063-lead-growth-analyst-marketing) |
-| Senior Content Designer (Healthcare Digital Experience) | Félix | CANADA | 2026-10-30 12:16 UTC | remote | [Apply](https://jaabz.com/jobs/293046-sr-content-designer) |
-| Email Marketing Manager (B2C Subscription Product) - Switzerland | Jobgether | SWITZERLAND | 2026-10-30 11:37 UTC | remote | [Apply](https://jaabz.com/jobs/293034-email-marketing-manager) |
-| Senior SEO Performance Manager (iGaming/Competitive Search) | Paradise Media | MALTA | 2026-10-30 11:36 UTC | remote | [Apply](https://jaabz.com/jobs/288634-seo-performance-manager) |
-| Growth Marketing & Automation Manager (Lead Generation & AI-Driven Scaling) | scale army careers | NORTHERN AFRICA | 2026-10-30 11:22 UTC | remote | [Apply](https://jaabz.com/jobs/292867-growth-marketing-automation-manager) |
+| Interview Specialist (Remote) - Recruitment & Talent Acquisition | cherry assistant | SOUTH AFRICA | 2026-10-31 13:17 UTC | remote | [Apply](https://jaabz.com/jobs/293498-recruitment-interview-specialist) |
+| Remote Staff Software Engineer - Ruby on Rails, React, and AI Integration | CyberCoders | United States | 2026-10-31 13:17 UTC | remote | [Apply](https://jaabz.com/jobs/270023-remote-staff-sw-engineer-150-240k-ruby-rails-agentic-ai) |
+| Ecommerce Web Designer (UI/UX, Shopify) | peachy | United States | 2026-10-31 13:06 UTC | remote | [Apply](https://jaabz.com/jobs/293493-web-designer-ecommerce) |
+| Senior Infrastructure Automation Engineer - Terraform Expert | Bright Vision Technologies | United States | 2026-10-31 12:39 UTC | remote | [Apply](https://jaabz.com/jobs/248491-infrastructure-automation-engineer) |
+| Senior Mobile Designer (Android/iOS) - Financial Services | Wave Mobile Money | SPAIN | 2026-10-31 12:15 UTC | remote | [Apply](https://jaabz.com/jobs/293471-product-designer) |
+| Mid-Senior Software Developer (Backend & AI Agents) | alxicorn | BANGLADESH | 2026-10-31 11:36 UTC | remote | [Apply](https://jaabz.com/jobs/282846-senior-software-engineer) |
+| Engineering Manager, Software Quality (QA & Test Automation) | unifonic | EGYPT | 2026-10-31 11:24 UTC | remote | [Apply](https://jaabz.com/jobs/293459-software-quality-engineering-manager) |
+| Senior HR Business Partner (Global - Sweden, UK, Germany) | Roboyo | SPAIN | 2026-10-31 11:22 UTC | remote | [Apply](https://jaabz.com/jobs/293458-senior-hr-business-partner-a-sweden-uk-germany) |
+| Content Marketing Lead (AI Search, SEO & Content Strategy) | Tagvenue | POLAND | 2026-10-31 11:09 UTC | remote | [Apply](https://jaabz.com/jobs/293457-content-marketing-lead) |
+| Senior AI Product Analyst (Voice AI) | medvidi | PORTUGAL | 2026-10-31 10:43 UTC | remote | [Apply](https://jaabz.com/jobs/283264-ai-product-analyst-voice-ai-agents) |
+| Enterprise Automation Adoption Lead | n8n | GREECE | 2026-10-31 09:50 UTC | remote, visa | [Apply](https://jaabz.com/jobs/285850-deployment-strategist-remote-europe) |
+| Digital Illustrator (Children's Books) - Full-Time Remote | alfa ai | PHILIPPINES | 2026-10-31 09:39 UTC | remote | [Apply](https://jaabz.com/jobs/293429-digital-illustrator-childrens-books) |
+| Senior IT Audit Consultant (SOC 2 & Information Assurance) | lbmc | United State | 2026-10-31 09:27 UTC | remote | [Apply](https://jaabz.com/jobs/293425-it-audit-senior-consultant) |
+| Backend Developer (Node.js/TypeScript) | Zero to One Search / Recruitment Agency | PORTUGAL | 2026-10-31 09:26 UTC | remote | [Apply](https://jaabz.com/jobs/230818-backend-developer-nodejs-portugal-remote) |
+| Quality Engineer I (Automated Testing & QA) | lmcu | United State | 2026-10-31 08:21 UTC | remote | [Apply](https://jaabz.com/jobs/293421-quality-engineer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
