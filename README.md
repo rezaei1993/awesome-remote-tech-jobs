@@ -44,25 +44,11 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-01 14:03** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-11-02 16:50** · showing **0** of 0 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Full Stack Developer (Remote - Canada) | pushoperations | CANADA | 2026-11-01 13:56 UTC | remote | [Apply](https://jaabz.com/jobs/293969-software-engineer-ii) |
-| SAS to Python Developer (Full Remote) | gielle informatica srl | — | 2026-11-01 13:54 UTC | remote | [Apply](https://jaabz.com/jobs/293967-saspython-developer) |
-| SAS/Python Developer (Full Remote) | gielle informatica srl | — | 2026-11-01 13:53 UTC | remote | [Apply](https://jaabz.com/jobs/293968-remote-sas-to-python-developer) |
-| Identity & Devices Engineer (Microsoft 365 Security) | Cyclotron, Inc. | United States | 2026-11-01 13:29 UTC | remote | [Apply](https://jaabz.com/jobs/293964-microsoft-identity-devices-engineer-client-consulting) |
-| Senior Backend (Node.js) Engineer – AI Automation & Integration | medvidi | United State | 2026-11-01 13:21 UTC | remote | [Apply](https://jaabz.com/jobs/293061-senior-backend-nodejs-engineer) |
-| Full-Stack Web Developer (Security + OCR) | pandvil | COLOMBIA | 2026-11-01 12:56 UTC | remote | [Apply](https://jaabz.com/jobs/293933-full-stack-web-developer) |
-| Database Performance and Reliability QA Engineer | InfluxData | — | 2026-11-01 12:48 UTC | remote | [Apply](https://jaabz.com/jobs/293944-software-engineer-database-reliability-performance) |
-| Senior Solutions Architect | RapidSOS | — | 2026-11-01 12:40 UTC | remote | [Apply](https://jaabz.com/jobs/293932-senior-solutions-architect) |
-| Machine Learning Engineer | loka, inc | SERBIA | 2026-11-01 12:39 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/293925-machine-learning-engineer) |
-| Software Engineer, Edge AI (Inference Snaps) | Canonical | — | 2026-11-01 12:33 UTC | remote | [Apply](https://jaabz.com/jobs/293931-software-engineer-edge-ai) |
-| Senior Java Developer (Contractor) | jagaad | — | 2026-11-01 12:26 UTC | remote | [Apply](https://jaabz.com/jobs/293914-senior-java-developer-italian) |
-| Senior AI Product Analyst (Voice AI) | medvidi | PORTUGAL | 2026-11-01 08:40 UTC | remote | [Apply](https://jaabz.com/jobs/283264-ai-product-analyst-voice-ai-agents) |
-| Senior Backend Engineer (AI/ML & Supply Chain Infrastructure) | clera | United States | 2026-11-01 07:39 UTC | remote, visa | [Apply](https://jaabz.com/jobs/293862-seniorstaff-software-engineer-platform) |
-| HRIS Business Operations Manager (Dayforce HCM) | Jobgether | United States | 2026-11-01 07:36 UTC | remote | [Apply](https://jaabz.com/jobs/293827-hris-business-operations-manager) |
-| Senior Mobile Developer (LLM Integration) | tarkio ai | INDIA | 2026-11-01 07:32 UTC | remote | [Apply](https://jaabz.com/jobs/293835-mobile-engineer-flutter) |
+| _No matching jobs in today's digest_ | — | — | — | — | [Jaabz](https://jaabz.com) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
