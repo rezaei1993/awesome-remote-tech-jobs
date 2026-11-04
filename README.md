@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-03 14:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-11-04 15:07** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Android and iOS Developer | talenthop | United States | 2026-11-03 14:37 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/295898-android-and-ios-developer) |
-| Android and/or iOS Mobile Developer | talenthop | United States | 2026-11-03 14:32 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/295899-android-andor-ios-mobile-developer) |
-| Software Security Engineer | talenthop | United States | 2026-11-03 14:31 UTC | remote | [Apply](https://jaabz.com/jobs/295894-software-security-engineer) |
-| ML Platform Engineer | talenthop | United States | 2026-11-03 14:30 UTC | remote | [Apply](https://jaabz.com/jobs/295895-ml-platform-engineer) |
-| MLOps Engineer (Databricks Platform) | Lumenalta | EUROPEAN ECONOMIC AREA | 2026-11-03 14:26 UTC | remote | [Apply](https://jaabz.com/jobs/251347-machine-learning-engineer) |
-| Senior UI/UX Designer | superbloom | PORTUGAL | 2026-11-03 14:24 UTC | remote | [Apply](https://jaabz.com/jobs/295867-senior-ui-ux-designer) |
-| Elastic Observability Engineer | kirey | ITALY | 2026-11-03 14:22 UTC | remote | [Apply](https://jaabz.com/jobs/100934-elastic-observability-engineer) |
-| UI Designer | content partners inc. | United States | 2026-11-03 14:22 UTC | remote | [Apply](https://jaabz.com/jobs/295862-ui-designer-remote-opportunity) |
-| Senior Software Engineering Expert | Mercor | AUSTRALIA | 2026-11-03 14:12 UTC | remote | [Apply](https://jaabz.com/jobs/295840-software-engineering-expert-fully-remote) |
-| Linux Platform Engineer (Ubuntu) | Canonical | — | 2026-11-03 13:57 UTC | remote | [Apply](https://jaabz.com/jobs/295829-linux-platform-integration-ubuntu-systems-senior-engineer) |
-| Cloud Solutions Architect - Alliances | Canonical | — | 2026-11-03 13:56 UTC | remote | [Apply](https://jaabz.com/jobs/295831-cloud-solutions-architect-alliances) |
-| Platform Reliability Engineer | talenthop | United States | 2026-11-03 13:50 UTC | remote | [Apply](https://jaabz.com/jobs/295642-platform-reliability-engineer) |
-| Backend Developer | careerbuilder | United States | 2026-11-03 13:39 UTC | remote | [Apply](https://jaabz.com/jobs/295666-backend-engineer) |
-| AI Infrastructure Engineer | Utilidata | United States | 2026-11-03 13:29 UTC | remote | [Apply](https://jaabz.com/jobs/295684-ai-infrastructure-engineer) |
-| Senior Cross-Platform Rust Engineer | Zyte | POLAND | 2026-11-03 13:20 UTC | remote | [Apply](https://jaabz.com/jobs/295779-software-engineer-edge-devices-mobile-remote) |
+| Senior Microsoft Systems Engineer | optasia | GREECE | 2026-11-04 15:06 UTC | remote | [Apply](https://jaabz.com/jobs/297003-windows-systems-engineer-fintech) |
+| Senior PostgreSQL Database Reliability Engineer | Storyblok | GERMANY | 2026-11-04 15:05 UTC | remote | [Apply](https://jaabz.com/jobs/297004-senior-database-reliability-engineer-i-germanyaustriauk) |
+| Senior React Native Mobile Engineer | OP | United States | 2026-11-04 15:03 UTC | remote | [Apply](https://jaabz.com/jobs/296992-staff-frontend-engineer-mobile) |
+| Senior .NET Developer (Full Remote, Portugal) | KCS iT | PORTUGAL | 2026-11-04 14:59 UTC | remote | [Apply](https://jaabz.com/jobs/221007-net-developer) |
+| Remote Staff Software Engineer - Ruby on Rails, React, and AI Integration | CyberCoders | United States | 2026-11-04 14:59 UTC | remote | [Apply](https://jaabz.com/jobs/270023-remote-staff-sw-engineer-150-240k-ruby-rails-agentic-ai) |
+| Senior GCP DevOps Engineer (AI‑Assisted) | fullstack | GREATER RIO DE JANEIRO | 2026-11-04 14:59 UTC | remote | [Apply](https://jaabz.com/jobs/285906-agentic-gcp-devops-engineer-remote-latin-america) |
+| Weekend Site Reliability Engineer (SRE) - DevOps/Platform Engineering | Sporty Group | EUROPEAN UNION | 2026-11-04 14:05 UTC | remote | [Apply](https://jaabz.com/jobs/296927-weekend-site-reliability-engineer) |
+| Backend Software Engineer (Go) - Remote | skool | United States | 2026-11-04 14:02 UTC | remote | [Apply](https://jaabz.com/jobs/296934-backend-software-engineer-python-go) |
+| IT Systems Engineer (Fully Remote) | simple life | POLAND | 2026-11-04 13:58 UTC | remote | [Apply](https://jaabz.com/jobs/296966-it-systems-engineer) |
+| IT Generalist (Remote) - Amsterdam | rex.zone | NETHERLANDS | 2026-11-04 13:54 UTC | remote | [Apply](https://jaabz.com/jobs/296946-it-generalist) |
+| Senior Application Security Engineer (Fully Remote) | talenthop | United States | 2026-11-04 13:47 UTC | remote | [Apply](https://jaabz.com/jobs/296964-sr-application-security-engineer) |
+| Data Analyst (SaaS) - Remote (France/Europe) | dotworld | FRANCE | 2026-11-04 13:43 UTC | remote | [Apply](https://jaabz.com/jobs/296958-data-analyst) |
+| Senior Data Engineer (Fully Remote) | talenthop | United States | 2026-11-04 13:42 UTC | remote | [Apply](https://jaabz.com/jobs/296959-senior-data-engineer) |
+| Senior Graphic Designer (Performance Creative) - Remote, Latin America | Somewhere | — | 2026-11-04 13:41 UTC | remote | [Apply](https://jaabz.com/jobs/296948-senior-graphic-designer-brand-performance-creative-67167545132) |
+| E-EFMP UI/UX Designer (Fully Remote) | DecisionPoint Corporation | United States | 2026-11-04 13:40 UTC | remote | [Apply](https://jaabz.com/jobs/296949-uiux-designer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
