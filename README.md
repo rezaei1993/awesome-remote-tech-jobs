@@ -91,7 +91,7 @@ Directories of employers with remote DNA (not single job posts).
 | Design / creative | [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere) |
 | Startups | [Wellfound](https://wellfound.com/jobs), [Otta](https://otta.com/) |
 | AI / ML | [AI Dev Jobs](https://aidevboard.com/) |
-| Web3 | [Web3 Jobs](https://web3.career/remote-jobs) |
+| Web3 | [Web3 Jobs](https://web3.career/remote-jobs), [chainjobs.app](https://chainjobs.app/) |
 | Europe-focused remote | [EU Remote Jobs](https://euremotejobs.com/) |
 
 ## Newsletters & Alerts
