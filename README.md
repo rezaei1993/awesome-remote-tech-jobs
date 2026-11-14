@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-13 15:07** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-11-14 13:57** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Fullstack Software Engineer (AI-Native, Remote) | micro1 | BRAZIL | 2026-11-13 14:04 UTC | remote | [Apply](https://jaabz.com/jobs/304293-fullstack-software-engineer-remote) |
-| Business Intelligence Developer | lumicera health services | United States | 2026-11-13 13:56 UTC | remote | [Apply](https://jaabz.com/jobs/304284-business-intelligence-developer-lumicera) |
-| Product Owner / Product Manager – SAP Integrations (Contract-to-Hire) | inficare staffing | CANADA | 2026-11-13 13:53 UTC | remote | [Apply](https://jaabz.com/jobs/304280-product-owner) |
-| Senior Product Manager, Core UX (Cross-Platform) | STATION F | SPAIN | 2026-11-13 13:51 UTC | remote | [Apply](https://jaabz.com/jobs/293362-product-manager-core-ux) |
-| Electron Software Engineer (Remote) | micro1 | BRAZIL | 2026-11-13 13:49 UTC | remote | [Apply](https://jaabz.com/jobs/304277-electron-software-engineer-remote) |
-| QA Engineer | Salmon Group Ltd | AUSTRALIA | 2026-11-13 12:25 UTC | remote | [Apply](https://jaabz.com/jobs/304193-staff-quality-engineer-msme) |
-| Senior Security Engineer | offchain | ROMANIA | 2026-11-13 12:19 UTC | remote | [Apply](https://jaabz.com/jobs/304200-senior-penetration-tester-aws) |
-| Android Developer – Kotlin / Jetpack Compose | thornton gregory | UNITED KINGDOM | 2026-11-13 12:18 UTC | remote | [Apply](https://jaabz.com/jobs/304201-android-developer) |
-| Senior Information Security Manager (ISMS & Governance) | itdesign gmbh | GERMANY | 2026-11-13 12:14 UTC | remote | [Apply](https://jaabz.com/jobs/288119-information-security-manager-mwd) |
-| Group Marketing & Growth Leader (Financial Services) | catalyst capital | United States | 2026-11-13 12:13 UTC | remote | [Apply](https://jaabz.com/jobs/304190-group-chief-marketing-officer) |
-| Senior HR Business Analyst & Automation Specialist (People Tech) | Salmon Group Ltd | SERBIA | 2026-11-13 12:11 UTC | remote | [Apply](https://jaabz.com/jobs/290346-business-analyst-people-tech) |
-| WEB (UI/UX) DEVELOPER (Fully Remote) | talenthop | United States | 2026-11-13 12:10 UTC | remote | [Apply](https://jaabz.com/jobs/304170-web-uiux-developer) |
-| Senior Cloud and DevOps Engineer (Fully Remote) | talenthop | United States | 2026-11-13 12:08 UTC | remote | [Apply](https://jaabz.com/jobs/304177-senior-cloud-and-devops-engineer) |
-| AI Image Specialist | Puffy | PORTUGAL | 2026-11-13 12:05 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/273728-ai-image-designer) |
-| IT Project Manager (Remote) | algoscale technologies pvt ltd | INDIA | 2026-11-13 12:05 UTC | remote | [Apply](https://jaabz.com/jobs/304158-it-project-manager) |
+| AI Engineer | ruby-labs | UKRAINE | 2026-11-14 13:26 UTC | remote | [Apply](https://jaabz.com/jobs/304963-ai-engineer) |
+| Senior Mobile App Developer (Healthcare/Telemedicine) - Fully Remote | Rightangled | UNITED ARAB EMIRATES | 2026-11-14 13:03 UTC | remote | [Apply](https://jaabz.com/jobs/289725-mobile-app-developer-remote) |
+| QA Automation Engineer | act digital | PORTUGAL | 2026-11-14 12:59 UTC | remote | [Apply](https://jaabz.com/jobs/304954-qa-automation-engineer-remote) |
+| Senior Network Engineer | Coinbase | United States | 2026-11-14 12:57 UTC | remote | [Apply](https://jaabz.com/jobs/270987-senior-network-engineer) |
+| Brand Designer & Illustrator (AI Infrastructure) | RunPod | United States | 2026-11-14 12:56 UTC | remote | [Apply](https://jaabz.com/jobs/304942-brand-designer-illustrator) |
+| Manager, Process Optimization and Marketing Operations | Elastic | United States | 2026-11-14 12:53 UTC | remote | [Apply](https://jaabz.com/jobs/103037-manager-process-optimization-and-marketing-operations) |
+| Web Designer (Full-Stack AI Healthcare) - Remote | aios | United States | 2026-11-14 12:53 UTC | remote | [Apply](https://jaabz.com/jobs/304943-web-designer) |
+| Azure DevOps Engineer (Cloud Infrastructure & Automation) | Haystack | UNITED KINGDOM | 2026-11-14 12:51 UTC | remote | [Apply](https://jaabz.com/jobs/304946-azure-devops-engineer) |
+| Staff JavaScript Developer (Web SDK) - Fraud Prevention & Risk Analytics | oscilar | BRAZIL | 2026-11-14 12:47 UTC | remote | [Apply](https://jaabz.com/jobs/304932-srstaff-javascript-developer-web-sdk-brazilcanadaukpolandindia) |
+| Product Owner (Literacy Education Technology) | Really Great Reading | — | 2026-11-14 12:44 UTC | remote | [Apply](https://jaabz.com/jobs/304919-product-owner-digital-product) |
+| Backend Engineer (PHP/Laravel) - Full-time, United States | md integrations | United States | 2026-11-14 12:40 UTC | remote | [Apply](https://jaabz.com/jobs/304926-senior-backend-engineer) |
+| Senior Product Manager (PharmaTech) - Platforce & Kheiron | Viseven | UKRAINE | 2026-11-14 12:36 UTC | remote | [Apply](https://jaabz.com/jobs/304918-product-manager-with-pharma-background) |
+| Engineering Manager (Platform Configuration & Implementation) - Remote (US) | bestow | United States | 2026-11-14 12:06 UTC | remote | [Apply](https://jaabz.com/jobs/304889-engineering-manager) |
+| Senior Smart Contract Verification Specialist (Blockchain Security) | app insights | UNITED ARAB EMIRATES | 2026-11-14 11:19 UTC | remote | [Apply](https://jaabz.com/jobs/304877-senior-smart-contract-verification-specialist) |
+| Senior Backend Engineer (Blockchain & Web Applications) - Cross-Border Remittance Infrastructure | g talent | JAPAN | 2026-11-14 11:17 UTC | remote | [Apply](https://jaabz.com/jobs/284517-abackend-engineer-specialistgoafintech-full-remote-business-japanese) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
