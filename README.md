@@ -44,25 +44,25 @@ Fresh **Remote** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Remote jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-16 16:45** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
+_Auto-updated · UTC **2026-11-17 16:41** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Remote hub](https://jaabz.com/jobs/remote)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| CMS Developer (WordPress & Laravel) | BairesDev | LATIN AMERICA | 2026-11-16 16:17 UTC | remote | [Apply](https://jaabz.com/jobs/306367-cms-developer-wordpress-laravel-remote-work) |
-| Senior Adobe Commerce Developer (Magento & PHP) | BairesDev | COLOMBIA | 2026-11-16 16:16 UTC | remote | [Apply](https://jaabz.com/jobs/277044-adobe-commerce-developer-magento-php-remote-work) |
-| Node.js Software Engineer | Tether.io | CAMBODIA | 2026-11-16 16:13 UTC | remote | [Apply](https://jaabz.com/jobs/265857-senior-nodejs-software-engineer-holepunch-100-remote-worldwide) |
-| BI Developer | BairesDev | PERU | 2026-11-16 16:12 UTC | remote | [Apply](https://jaabz.com/jobs/306344-bi-developer-remote-work) |
-| Lead Product Data Analyst | LawnStarter | BRAZIL | 2026-11-16 16:09 UTC | remote | [Apply](https://jaabz.com/jobs/276175-lead-product-data-analyst) |
-| Analytics Engineer (dbt & Sigma) | BairesDev | — | 2026-11-16 16:08 UTC | remote | [Apply](https://jaabz.com/jobs/306346-analytics-engineer-dbt-sigma-remote-work) |
-| Analytics Engineer (Snowflake & Looker) | BairesDev | LATIN AMERICA | 2026-11-16 16:07 UTC | remote | [Apply](https://jaabz.com/jobs/306347-analytics-engineer-snowflake-looker-remote-work) |
-| Head of Product - AdTech | Jobgether | AUSTRALIA | 2026-11-16 16:06 UTC | remote | [Apply](https://jaabz.com/jobs/306329-head-of-product-adtech) |
-| Head of Product - AdTech | Jobgether | TüRKIYE | 2026-11-16 16:05 UTC | remote | [Apply](https://jaabz.com/jobs/306330-head-of-product-adtech) |
-| Cloud Engineer (GCP) - Remote Work | BairesDev | BELARUS | 2026-11-16 15:59 UTC | remote | [Apply](https://jaabz.com/jobs/271653-cloud-engineer-gcp-remote-work) |
-| Cloud Engineer (Azure) | BairesDev | — | 2026-11-16 15:51 UTC | remote | [Apply](https://jaabz.com/jobs/306305-cloud-engineer-azure-remote-work) |
-| Backend Developer (Micronaut & Node.js) | BairesDev | MEXICO | 2026-11-16 15:49 UTC | remote | [Apply](https://jaabz.com/jobs/306295-backend-developer-micronaut-nodejs-remote-work) |
-| Android Engineer | BairesDev | BRAZIL | 2026-11-16 15:47 UTC | remote | [Apply](https://jaabz.com/jobs/306298-android-engineer-kotlin-jetpack-compose-remote-work) |
-| CI/CD Engineer (Kubernetes) | BairesDev | LATIN AMERICA | 2026-11-16 15:46 UTC | remote | [Apply](https://jaabz.com/jobs/275461-cicd-engineer-kubernetes-remote-work) |
-| Backend Engineer (Node.js) | BairesDev | PERU | 2026-11-16 15:45 UTC | remote | [Apply](https://jaabz.com/jobs/306282-backend-engineer-node-remote-work) |
+| Security Software Engineer | talenthop | United States | 2026-11-17 16:25 UTC | remote | [Apply](https://jaabz.com/jobs/307158-security-software-engineer) |
+| API Test Automation Engineer (Playwright) | BairesDev | URUGUAY | 2026-11-17 16:24 UTC | remote | [Apply](https://jaabz.com/jobs/275992-api-test-automation-engineer-playwright-remote-work) |
+| Chief Marketing Officer | k beauty clinic lebanon - the hub of korean beauty expertise | United States | 2026-11-17 16:24 UTC | remote | [Apply](https://jaabz.com/jobs/307146-chief-marketing-officer) |
+| Chief Marketing Officer | house of kiora | United States | 2026-11-17 16:23 UTC | remote | [Apply](https://jaabz.com/jobs/307147-chief-marketing-strategy-and-execution-officer) |
+| SEO Assistant | ovx seo | MOROCCO | 2026-11-17 16:21 UTC | remote | [Apply](https://jaabz.com/jobs/307149-remote-seo-assistant-full-time) |
+| Head of Data Science | Linktree | United States | 2026-11-17 16:20 UTC | remote | [Apply](https://jaabz.com/jobs/275272-head-of-data-science) |
+| GIS Engineer | BairesDev | BRAZIL | 2026-11-17 16:18 UTC | remote | [Apply](https://jaabz.com/jobs/307132-gis-engineer-remote-work) |
+| Senior Backend Engineer (PHP/Laravel) – Blockchain Infrastructure | coinspaid dev | EMEA | 2026-11-17 16:08 UTC | remote | [Apply](https://jaabz.com/jobs/273218-senior-php-backend-engineer) |
+| Senior .NET Developer (Fintech) | Social Discovery Group | POLAND | 2026-11-17 15:45 UTC | remote | [Apply](https://jaabz.com/jobs/307099-senior-net-developer-fintech) |
+| Senior Software Engineer - Agentic AI | counterpart health | — | 2026-11-17 15:44 UTC | remote | [Apply](https://jaabz.com/jobs/307100-senior-software-engineer-agentic-ai) |
+| Senior Full Stack Developer — Web3 | moonberg | United States | 2026-11-17 15:17 UTC | remote | [Apply](https://jaabz.com/jobs/307042-senior-fullstack-developer) |
+| DevOps Engineer (Azure) | BairesDev | BRAZIL | 2026-11-17 15:14 UTC | remote | [Apply](https://jaabz.com/jobs/307062-devops-engineer-azure-remote-work) |
+| Security Engineer | Capgemini | — | 2026-11-17 14:56 UTC | remote | [Apply](https://jaabz.com/jobs/307077-cybersecurity-engineer-senior-security-engineer-proofpoint-and-vulnerability-management) |
+| Mobile Engineer (Flutter) | BairesDev | CHILE | 2026-11-17 14:52 UTC | remote | [Apply](https://jaabz.com/jobs/307080-mobile-engineer-flutter-remote-work) |
+| Mobile Developer | BairesDev | LATIN AMERICA | 2026-11-17 14:51 UTC | remote | [Apply](https://jaabz.com/jobs/307082-mobile-developer-remote-work) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
