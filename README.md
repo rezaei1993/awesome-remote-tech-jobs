@@ -70,6 +70,7 @@ _Auto-updated · UTC **2026-11-23 18:58** · showing **15** of 75 · [full diges
 
 Boards that crawl or combine multiple sources.
 
+- [EuroJobs.ai](https://eurojobs.ai) — Aggregates 28,000+ IT jobs across Europe from 21,000 employer career pages (Greenhouse, Lever, Ashby, Workable and others), rechecked hourly. Filters for remote, visa sponsorship, and English-speaking teams.
 - [Remote Index](https://remoteindex.co/) — Aggregator for remote tech jobs.
 - [remote4me](https://remote4me.com/) — Aggregates remote tech and non-tech roles.
 - [JS Remotely](https://jsremotely.com/) — Remote JavaScript / web development jobs.
