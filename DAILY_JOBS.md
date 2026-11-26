@@ -1,86 +1,86 @@
 # Daily Remote Tech Jobs from Jaabz
 
-_Auto-updated daily from [Jaabz](https://jaabz.com) · last refresh (UTC): **2026-11-25 17:49**_
+_Auto-updated daily from [Jaabz](https://jaabz.com) · last refresh (UTC): **2026-11-26 17:32**_
 
 Browse more: [Remote hub](https://jaabz.com/jobs/remote)
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
+| Senior Software Engineer – User Applications | Protex AI | IRELAND | 2026-11-26 17:28 UTC | remote | [Apply](https://jaabz.com/jobs/314224-senior-software-engineer-backend-user-applications) |
+| Senior Full Stack Developer (C# / .NET / Angular) | swoop recruitment | BRAZIL | 2026-11-26 17:26 UTC | remote | [Apply](https://jaabz.com/jobs/314225-full-stack-engineer) |
+| Senior SDET – Game Testing & Automation | companion group | GERMANY | 2026-11-26 17:19 UTC | remote | [Apply](https://jaabz.com/jobs/314211-sdet) |
+| WordPress Developer (Project-Based, Remote) | zynvex solutions | PAKISTAN | 2026-11-26 17:18 UTC | remote | [Apply](https://jaabz.com/jobs/314220-wordpress-developer-project-based-remote) |
+| Intermediate Software Engineer (.NET / AWS) | truelogic | — | 2026-11-26 17:15 UTC | remote | [Apply](https://jaabz.com/jobs/314216-semi-senior-full-stack-engineer-technology) |
+| Mobile Engineer (Flutter) – BairesDev | BairesDev | PERU | 2026-11-26 17:10 UTC | remote | [Apply](https://jaabz.com/jobs/314213-mobile-engineer-flutter-remote-work) |
+| Senior Video Software Engineer (C++/Rust) – Remote | kake | INDIA | 2026-11-26 16:03 UTC | remote | [Apply](https://jaabz.com/jobs/314173-senior-video-software-engineer-crust-remote) |
+| Mid-Level Cloud Engineer (GCP, Terraform) | BairesDev | PERU | 2026-11-26 15:58 UTC | remote | [Apply](https://jaabz.com/jobs/314180-mid-level-cloud-engineer-gcp-terraform-remote-work) |
+| Senior Tools Engineer – Log Monitoring & Unreal Engine Integration | companion group | GERMANY | 2026-11-26 15:57 UTC | remote | [Apply](https://jaabz.com/jobs/314174-senior-tools-engineer) |
+| Senior React Native Engineer | kake | INDIA | 2026-11-26 15:56 UTC | remote | [Apply](https://jaabz.com/jobs/263904-senior-react-native-engineer-mobile-remote) |
+| Machine Learning Engineer - Remote Work | BairesDev | BRAZIL | 2026-11-26 15:15 UTC | remote | [Apply](https://jaabz.com/jobs/73049-machine-learning-engineer-remote-work) |
+| Senior Analytics Engineer – dbt & Snowflake | BairesDev | CHILE | 2026-11-26 14:12 UTC | remote | [Apply](https://jaabz.com/jobs/314111-senior-analytics-engineer-a-dbt-snowflake-remote-work) |
+| Mobile Engineer (Flutter) | BairesDev | BRAZIL | 2026-11-26 13:17 UTC | remote | [Apply](https://jaabz.com/jobs/314096-mobile-engineer-flutter-remote-work) |
+| Senior AI Developer (Full-Stack, Next.js & Supabase) - Owner Portal, Agentsuite, Partner Portal, Tenantsuite & Admin | propertysuite | United States | 2026-11-26 12:46 UTC | remote, visa | [Apply](https://jaabz.com/jobs/284429-ai-developer) |
+| Mid-Senior Software Engineer – C++/Java | Databento | — | 2026-11-26 12:26 UTC | remote | [Apply](https://jaabz.com/jobs/314067-software-engineer-cjava) |
+| SR. HRIS ANALYST | talenthop | United States | 2026-11-26 12:06 UTC | remote | [Apply](https://jaabz.com/jobs/312476-sr-hris-analyst) |
+| Cloud Infrastructure Engineer (GCP) | sdg group italy | ITALY | 2026-11-26 11:42 UTC | remote | [Apply](https://jaabz.com/jobs/282293-gcp-infrastructure-engineer) |
+| Senior Software Engineer | Marigold | AUSTRALIA | 2026-11-26 10:25 UTC | remote | [Apply](https://jaabz.com/jobs/313994-senior-software-engineer) |
+| Security Engineer (Identity) | BairesDev | LATIN AMERICA | 2026-11-26 09:07 UTC | remote | [Apply](https://jaabz.com/jobs/313974-security-engineer-identity-remote-work-ref297521) |
+| Senior Platform Engineer | Jobgether | BRAZIL | 2026-11-26 08:52 UTC | remote | [Apply](https://jaabz.com/jobs/313968-senior-platform-engineer) |
+| Product Manager, Procure-to-Pay | Zone & Co | SPAIN | 2026-11-26 08:52 UTC | remote | [Apply](https://jaabz.com/jobs/313552-product-manager-procure-to-pay) |
+| Senior DevOps Engineer (Remote, South Africa) | Jobgether | SOUTH AFRICA | 2026-11-26 08:46 UTC | remote | [Apply](https://jaabz.com/jobs/313849-senior-devops-engineer) |
+| Senior DevOps Engineer – Google Cloud & Kubernetes | Jobgether | SAUDI ARABIA | 2026-11-26 08:45 UTC | remote | [Apply](https://jaabz.com/jobs/313850-senior-devops-engineer) |
+| Senior DevOps Engineer | Jobgether | AUSTRALIA | 2026-11-26 08:44 UTC | remote | [Apply](https://jaabz.com/jobs/313851-senior-devops-engineer) |
+| Senior DevOps Engineer | Jobgether | UNITED ARAB EMIRATES | 2026-11-26 08:43 UTC | remote | [Apply](https://jaabz.com/jobs/313852-senior-devops-engineer) |
+| Senior DevOps Engineer | Jobgether | INDIA | 2026-11-26 08:42 UTC | remote | [Apply](https://jaabz.com/jobs/313855-senior-devops-engineer) |
+| Automation Engineer | Jobgether | United States | 2026-11-26 08:41 UTC | remote | [Apply](https://jaabz.com/jobs/313857-automation-engineer) |
+| Automation Engineer | Jobgether | — | 2026-11-26 08:39 UTC | remote | [Apply](https://jaabz.com/jobs/313858-automation-engineer-remote-boston) |
+| Head of Product | Jobgether | ITALY | 2026-11-26 08:22 UTC | remote | [Apply](https://jaabz.com/jobs/313869-head-of-product) |
+| Mobile Developer | growthpit | JAPAN | 2026-11-26 06:52 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/313923-flutter-engineer-full-remote-japan-english-only) |
+| Remote Staff Software Engineer - Ruby on Rails, React, and AI Integration | CyberCoders | United States | 2026-11-26 02:57 UTC | remote | [Apply](https://jaabz.com/jobs/270023-remote-staff-sw-engineer-150-240k-ruby-rails-agentic-ai) |
+| Google Ads Strategist / Performance Marketer | Sweat Pants Agency | ROMANIA | 2026-11-26 01:30 UTC | remote | [Apply](https://jaabz.com/jobs/313794-ppc-marketing-specialist-remote) |
+| Lead UX Designer | 3Pillar | MEXICO | 2026-11-26 01:22 UTC | remote | [Apply](https://jaabz.com/jobs/313787-lead-ux-designer) |
+| Remote Staff SW Engineer ($150-$240k) Ruby, Rails, AI | CyberCoders | United States | 2026-11-26 01:11 UTC | remote | [Apply](https://jaabz.com/jobs/271020-remote-staff-sw-engineer-150-240k-ruby-rails-ai) |
+| Competitive Data Scientist | yo hr consultancy | NEW ZEALAND | 2026-11-26 00:55 UTC | remote | [Apply](https://jaabz.com/jobs/313772-data-scientist-remote) |
+| Zoho Developer | St Trinity Property Group | PHILIPPINES | 2026-11-26 00:22 UTC | remote | [Apply](https://jaabz.com/jobs/313739-zoho-developer) |
+| Engineering Manager | horizon3 | United States | 2026-11-26 00:21 UTC | remote | [Apply](https://jaabz.com/jobs/313757-engineering-manager-rbem) |
+| Mid-Senior Software Developer (Backend & AI Agents) | alxicorn | BANGLADESH | 2026-11-25 23:38 UTC | remote | [Apply](https://jaabz.com/jobs/282846-senior-software-engineer) |
+| API Test Automation Engineer (Playwright) | BairesDev | URUGUAY | 2026-11-25 23:38 UTC | remote | [Apply](https://jaabz.com/jobs/275992-api-test-automation-engineer-playwright-remote-work) |
+| Manual QA Engineer | zexter | United States | 2026-11-25 23:34 UTC | remote | [Apply](https://jaabz.com/jobs/313729-qa-engineer-manual) |
+| Active Directory Migration Specialist | inficare staffing | MEXICO | 2026-11-25 23:23 UTC | remote | [Apply](https://jaabz.com/jobs/313712-active-directory-migration-specialist) |
+| Remote Senior or Staff Software Engineer - Ruby, Rails, and Agentic AI | CyberCoders | United States | 2026-11-25 23:17 UTC | remote | [Apply](https://jaabz.com/jobs/282884-remote-sr-or-staff-engineer-150-240k-ruby-rails-agentic-ai) |
+| AI Developer – Computer Vision and Document Understanding | kenova - recrutement humain | CANADA | 2026-11-25 21:41 UTC | remote | [Apply](https://jaabz.com/jobs/313671-ai-developer-computer-vision-and-text) |
+| Analytics Engineer (Power BI & Microsoft Fabric) | BairesDev | BRAZIL | 2026-11-25 21:40 UTC | remote | [Apply](https://jaabz.com/jobs/313672-analytics-engineer-power-bi-microsoft-fabric-remote-work-ref309171) |
+| Staff Backend Engineer (L60) £130,000 - £170,000 + Equity + Benefits | monzo | UNITED KINGDOM | 2026-11-25 20:48 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/313547-staff-backend-engineer) |
+| GIS Engineer | BairesDev | BRAZIL | 2026-11-25 20:44 UTC | remote | [Apply](https://jaabz.com/jobs/313550-gis-engineer-remote-work) |
+| Senior Distributed Systems Engineer | BairesDev | COLOMBIA | 2026-11-25 20:43 UTC | remote | [Apply](https://jaabz.com/jobs/313551-senior-distributed-systems-engineer-remote-work-ref308049) |
+| Senior Cybersecurity Engineer | Sigmar Recruitment | IRELAND | 2026-11-25 20:29 UTC | remote | [Apply](https://jaabz.com/jobs/313563-senior-cybersecurity-engineer) |
+| Senior Platform Engineer | Megaport | CANADA | 2026-11-25 20:24 UTC | remote | [Apply](https://jaabz.com/jobs/313615-senior-site-reliability-engineer) |
+| Senior Microsoft Teams & .NET Developer | BairesDev | CHILE | 2026-11-25 20:14 UTC | remote | [Apply](https://jaabz.com/jobs/313627-senior-microsoft-teams-net-developer-remote-work) |
+| Junior AEM Developer | BairesDev | ECUADOR | 2026-11-25 20:13 UTC | remote | [Apply](https://jaabz.com/jobs/313628-junior-adobe-aem-developer-remote-work-ref307883) |
+| Senior Data Engineer (Python) | BairesDev | PERU | 2026-11-25 19:57 UTC | remote | [Apply](https://jaabz.com/jobs/313617-senior-data-engineer-python-remote-work) |
+| Frontend Engineer (React/Next.js) | BairesDev | BRAZIL | 2026-11-25 19:37 UTC | remote | [Apply](https://jaabz.com/jobs/269857-frontend-engineer-reactnextjs-remote-work) |
+| Mobile Engineer (Flutter) | BairesDev | CHILE | 2026-11-25 19:32 UTC | remote | [Apply](https://jaabz.com/jobs/313568-mobile-engineer-flutter-remote-work) |
+| iOS Mobile Developer | BairesDev | LATIN AMERICA | 2026-11-25 19:30 UTC | remote | [Apply](https://jaabz.com/jobs/313569-ios-mobile-developer-remote-work-ref307697) |
+| Backend Developer (Ruby on Rails) | BairesDev | NICARAGUA | 2026-11-25 19:29 UTC | remote | [Apply](https://jaabz.com/jobs/313586-backend-developer-ruby-on-rails-remote-work-ref309172) |
+| Senior Fullstack Engineer (Ruby on Rails) | kake | INDIA | 2026-11-25 19:28 UTC | remote | [Apply](https://jaabz.com/jobs/313587-senior-full-stack-engineer-ruby-on-rails-remote) |
+| Software Engineer (React Native) | BairesDev | BRAZIL | 2026-11-25 19:27 UTC | remote | [Apply](https://jaabz.com/jobs/313588-software-engineer-react-native-remote-work) |
+| Senior Data Engineer | muttdata | — | 2026-11-25 19:13 UTC | remote | [Apply](https://jaabz.com/jobs/313572-19-data-engineer-senior-santiago-de-chile) |
+| Cloud Cybersecurity Engineer | 3y-health | — | 2026-11-25 18:45 UTC | remote | [Apply](https://jaabz.com/jobs/313504-cloud-cybersecurity-engineer) |
+| Backend Engineer (PHP) | BairesDev | PERU | 2026-11-25 18:44 UTC | remote | [Apply](https://jaabz.com/jobs/313506-backend-engineer-php-remote-work) |
+| Frontend Developer (Vue) | BairesDev | VENEZUELA | 2026-11-25 18:41 UTC | remote | [Apply](https://jaabz.com/jobs/313512-frontend-developer-vue-remote-work) |
+| AI Developer | globusagi | INDIA | 2026-11-25 18:40 UTC | remote | [Apply](https://jaabz.com/jobs/313513-ai-developer) |
+| Staff Engineer, Site Reliability | tuxcare | PORTUGAL | 2026-11-25 18:37 UTC | remote | [Apply](https://jaabz.com/jobs/313517-staff-site-reliability-engineer-remote-work) |
+| UI/UX Designer | psc biotech® corporation | PHILIPPINES | 2026-11-25 18:29 UTC | remote | [Apply](https://jaabz.com/jobs/205028-uiux-designer) |
+| Senior Rust Engineer | kake | POLAND | 2026-11-25 18:29 UTC | remote | [Apply](https://jaabz.com/jobs/263183-senior-rust-engineer-remote) |
+| Semi Senior iOS Developer | BairesDev | BRAZIL | 2026-11-25 18:29 UTC | remote | [Apply](https://jaabz.com/jobs/264743-semi-senior-ios-developer-remote-work) |
 | Android Developer | BairesDev | COLOMBIA | 2026-11-25 15:22 UTC | remote | [Apply](https://jaabz.com/jobs/313390-android-kotlin-developer-remote-work-ref308004) |
 | Mobile QA Engineer | gismart | — | 2026-11-25 15:10 UTC | remote | [Apply](https://jaabz.com/jobs/313369-general-mobile-qa-engineer-fitme) |
 | PHP Full Stack Developer | BairesDev | CHILE | 2026-11-25 15:01 UTC | remote | [Apply](https://jaabz.com/jobs/313384-php-full-stack-developer-remote-work) |
-| Remote Staff Software Engineer - Ruby on Rails, React, and AI Integration | CyberCoders | United States | 2026-11-25 15:00 UTC | remote | [Apply](https://jaabz.com/jobs/270023-remote-staff-sw-engineer-150-240k-ruby-rails-agentic-ai) |
 | Senior Business Analyst, GTM Systems | sproutsocial | United States | 2026-11-25 14:57 UTC | remote | [Apply](https://jaabz.com/jobs/313373-senior-business-analyst-gtm-systems) |
 | QA Engineer | truelogic | — | 2026-11-25 14:04 UTC | remote | [Apply](https://jaabz.com/jobs/313339-quality-engineer-automation-jsts-software-industry) |
 | Business Analyst – Field Operations & Metering | truelogic | MEXICO | 2026-11-25 14:03 UTC | remote | [Apply](https://jaabz.com/jobs/313340-business-analyst-mexico-based-global-services-company) |
 | Senior Full-Stack Engineer | truelogic | — | 2026-11-25 14:02 UTC | remote | [Apply](https://jaabz.com/jobs/313341-senior-full-stack-engineer-reactnode-backend-focused-real-estate-latam) |
 | Senior Full-Stack Engineer | truelogic | — | 2026-11-25 14:01 UTC | remote | [Apply](https://jaabz.com/jobs/313342-senior-full-stack-engineer-reactnode-backend-focused-real-estate-mexicoremote) |
-| Senior Full-Stack Engineer | truelogic | — | 2026-11-25 14:00 UTC | remote | [Apply](https://jaabz.com/jobs/313343-senior-full-stack-engineer-reactnode-backend-focused-real-estate-brazilremote) |
-| Senior C++ Developer – Server-Side & MT4/5 Plugin | CXM | ROMANIA | 2026-11-25 13:39 UTC | remote | [Apply](https://jaabz.com/jobs/313257-c-developer-russian-speaking) |
-| Senior Core Systems Engineer | The Walt Disney Company | — | 2026-11-25 13:38 UTC | remote | [Apply](https://jaabz.com/jobs/313258-senior-core-system-engineer) |
-| Senior Product Designer, Wallets | tether | EMEA | 2026-11-25 13:27 UTC | remote | [Apply](https://jaabz.com/jobs/313294-senior-product-designer-100-remote-worldwide) |
-| Senior React Native Engineer | Patrianna | BULGARIA | 2026-11-25 13:25 UTC | remote | [Apply](https://jaabz.com/jobs/313333-staff-mobile-native-engineer) |
-| Kubernetes Platform Engineer | BairesDev | MEXICO | 2026-11-25 13:15 UTC | remote | [Apply](https://jaabz.com/jobs/313306-kubernetes-platform-engineer-remote-work-ref306397) |
-| MuleSoft + DataWeave Engineer | BairesDev | BRAZIL | 2026-11-25 13:12 UTC | remote | [Apply](https://jaabz.com/jobs/313308-mulesoft-dataweave-engineer-remote-work-ref297660) |
-| Performance Marketing Specialist | EverAI | MALTA | 2026-11-25 13:08 UTC | remote | [Apply](https://jaabz.com/jobs/313323-junior-performance-marketer-remote-europe) |
-| Product Director (Midcore Game) | Jobgether | SWEDEN | 2026-11-25 13:07 UTC | remote | [Apply](https://jaabz.com/jobs/313310-product-director-midcore-direction) |
-| Analytics Engineer (dbt & Sigma) | BairesDev | — | 2026-11-25 13:06 UTC | remote | [Apply](https://jaabz.com/jobs/313319-analytics-engineer-dbt-sigma-remote-work-ref309170) |
-| Product Director (Midcore Gaming) | Jobgether | TüRKIYE | 2026-11-25 12:59 UTC | remote | [Apply](https://jaabz.com/jobs/313313-product-director-midcore-direction) |
-| Product Director | Jobgether | UNITED KINGDOM | 2026-11-25 12:58 UTC | remote | [Apply](https://jaabz.com/jobs/313314-product-director-midcore-direction) |
-| Senior Network Engineer | CommandLink | ARGENTINA | 2026-11-25 12:38 UTC | remote | [Apply](https://jaabz.com/jobs/208930-senior-network-engineer) |
-| Vue Developer | BairesDev | CHILE | 2026-11-25 12:33 UTC | remote | [Apply](https://jaabz.com/jobs/313267-vue-developer-en-ref290697) |
-| Senior Product Manager - Credit | jeeves | BRAZIL | 2026-11-25 11:43 UTC | remote | [Apply](https://jaabz.com/jobs/313215-senior-product-manager-credit) |
-| Senior Forward Deployed Engineer — Data Engineering & AI | Jobgether | BRAZIL | 2026-11-25 11:40 UTC | remote | [Apply](https://jaabz.com/jobs/313213-senior-forward-deployed-engineer-data-engineering-amp-ai) |
-| SR. HRIS ANALYST | talenthop | United States | 2026-11-25 10:53 UTC | remote | [Apply](https://jaabz.com/jobs/312476-sr-hris-analyst) |
-| Senior AI Engineer | talenthop | United States | 2026-11-25 10:46 UTC | remote | [Apply](https://jaabz.com/jobs/313199-senior-ai-engineer) |
-| QA Analyst - Accessibility | talenthop | United States | 2026-11-25 10:07 UTC | remote | [Apply](https://jaabz.com/jobs/313194-qa-analyst) |
-| DevOps/DevSecOps Engineer | Bekerdja.id | INDONESIA | 2026-11-25 09:39 UTC | remote | [Apply](https://jaabz.com/jobs/313181-desvsecops) |
-| Software Engineer - Developer Experience | talenthop | United States | 2026-11-25 09:37 UTC | remote | [Apply](https://jaabz.com/jobs/313183-software-engineer-developer-experience) |
-| Senior Frontend Engineer (TypeScript / React) | bao | GREATER PARIS METROPOLITAN REGION | 2026-11-25 09:20 UTC | remote | [Apply](https://jaabz.com/jobs/280533-frontend-developer) |
-| Mid‑Senior Level .NET Developer – SaaS Platform (Remote) | Jobot | United States | 2026-11-25 09:18 UTC | remote | [Apply](https://jaabz.com/jobs/277193-net-developer) |
-| Founding CMO / Co-founder | arettic | United States | 2026-11-25 07:45 UTC | remote | [Apply](https://jaabz.com/jobs/313149-co-founder-cmo) |
-| C++ Developer (Server-Side) | CXM | United States | 2026-11-25 07:26 UTC | remote | [Apply](https://jaabz.com/jobs/313132-c-developer-russian-speaking) |
-| Sr. Backend Engineer - Privacy Infrastructure | helius | EUROPEAN UNION | 2026-11-25 07:25 UTC | remote | [Apply](https://jaabz.com/jobs/313134-senior-rust-engineer-privacy) |
-| Senior Software Engineer - AI Coding Agent Evaluator | g2i | — | 2026-11-25 07:23 UTC | remote | [Apply](https://jaabz.com/jobs/313123-senior-software-engineer-ai-training) |
-| Data Engineer Trainee | Miratech | — | 2026-11-25 07:08 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/313116-data-engineer-trainee) |
-| Sr. Backend Engineer | helius | United States | 2026-11-25 05:14 UTC | remote | [Apply](https://jaabz.com/jobs/313098-senior-rust-engineer-privacy) |
-| Staff Platform Engineer (AI-Driven Infrastructure & Agentic Engineering) | orion digital | CANADA | 2026-11-25 05:12 UTC | remote | [Apply](https://jaabz.com/jobs/273639-devops-staff-platform-engineer) |
-| Power BI Developer | Pinnacle Live | United States | 2026-11-25 04:46 UTC | remote | [Apply](https://jaabz.com/jobs/313094-power-bi-developer) |
-| Senior Product Manager – Growth & Platform | sleekflow | MALAYSIA | 2026-11-25 04:45 UTC | remote | [Apply](https://jaabz.com/jobs/313091-senior-product-manager-growth-platform) |
-| Database Administrator | Jobgether | United States | 2026-11-25 03:01 UTC | remote | [Apply](https://jaabz.com/jobs/312906-database-administrator) |
-| Project Manager & Communications Specialist (Project Manager III) | Jobgether | United States | 2026-11-25 02:52 UTC | remote | [Apply](https://jaabz.com/jobs/312913-project-manager-communications-specialist-project-manager-iii) |
-| Senior Data Architect (with Generative AI) | Jobgether | United States | 2026-11-25 02:50 UTC | remote | [Apply](https://jaabz.com/jobs/312916-senior-data-architect-with-generative-ai) |
-| Senior DevOps Engineer | Jobgether | IRELAND | 2026-11-25 02:39 UTC | remote | [Apply](https://jaabz.com/jobs/312920-senior-devops-engineer) |
-| Senior DevOps Engineer | Jobgether | GREECE | 2026-11-25 02:38 UTC | remote | [Apply](https://jaabz.com/jobs/312921-senior-devops-engineer) |
-| Senior DevOps Engineer | Jobgether | NETHERLANDS | 2026-11-25 02:35 UTC | remote | [Apply](https://jaabz.com/jobs/312923-senior-devops-engineer) |
-| Senior DevOps Engineer | Jobgether | SWEDEN | 2026-11-25 02:04 UTC | remote | [Apply](https://jaabz.com/jobs/312932-senior-devops-engineer) |
-| Senior DevOps Engineer | Jobgether | PORTUGAL | 2026-11-25 02:01 UTC | remote | [Apply](https://jaabz.com/jobs/312935-senior-devops-engineer) |
-| Senior DevOps Engineer II | Jobgether | ROMANIA | 2026-11-25 01:38 UTC | remote | [Apply](https://jaabz.com/jobs/312955-senior-devops-engineer-ii) |
-| Demo Platform Engineer | vcluster labs | United States | 2026-11-25 01:10 UTC | remote | [Apply](https://jaabz.com/jobs/313027-demo-platform-engineer) |
-| Threat Hunting Investigator | Piper Companies | United States | 2026-11-25 01:00 UTC | remote | [Apply](https://jaabz.com/jobs/313047-threat-hunter-investigator) |
-| Senior DevSecOps Engineer | onepoint | CANADA | 2026-11-25 00:47 UTC | remote | [Apply](https://jaabz.com/jobs/206080-daveloppeurse-devsecops) |
-| Senior Distributed Systems Engineer | Qdrant | — | 2026-11-25 00:44 UTC | remote | [Apply](https://jaabz.com/jobs/313022-senior-software-engineer-cluster-lifecycle-emea) |
-| Senior Product Designer | Social Discovery Group | POLAND | 2026-11-25 00:41 UTC | remote | [Apply](https://jaabz.com/jobs/313017-senior-product-designer) |
-| Senior AI Developer (Full-Stack, Next.js & Supabase) - Owner Portal, Agentsuite, Partner Portal, Tenantsuite & Admin | propertysuite | United States | 2026-11-25 00:30 UTC | remote, visa | [Apply](https://jaabz.com/jobs/284429-ai-developer) |
-| Remote Staff SW Engineer ($150-$240k) Ruby, Rails, AI | CyberCoders | United States | 2026-11-25 00:25 UTC | remote | [Apply](https://jaabz.com/jobs/271020-remote-staff-sw-engineer-150-240k-ruby-rails-ai) |
-| Senior Software Engineer, Bot Detection | Jobgether | ITALY | 2026-11-24 23:58 UTC | remote | [Apply](https://jaabz.com/jobs/312978-senior-software-engineer-bot-detection-client-side-signals) |
-| Senior Software Engineer, Bot Detection (Client-Side & Signals) | Jobgether | IRELAND | 2026-11-24 23:54 UTC | remote | [Apply](https://jaabz.com/jobs/312982-senior-software-engineer-bot-detection-client-side-signals) |
-| Senior Software Engineer, Bot Detection (Client-Side & Signals) | Jobgether | SAUDI ARABIA | 2026-11-24 23:52 UTC | remote | [Apply](https://jaabz.com/jobs/312984-senior-software-engineer-bot-detection-client-side-signals) |
-| Staff Decision Scientist - Direct Revenue | Life360 | CANADA | 2026-11-24 22:28 UTC | remote | [Apply](https://jaabz.com/jobs/312858-staff-decision-scientist-direct-revenue-ai-native) |
-| Senior Site Reliability Engineer | Nortal | BRAZIL | 2026-11-24 21:27 UTC | remote | [Apply](https://jaabz.com/jobs/312783-1638-senior-site-reliability-engineering) |
-| WordPress Developer (PHP) | BairesDev | ECUADOR | 2026-11-24 21:15 UTC | remote | [Apply](https://jaabz.com/jobs/312794-wordpress-developer-php-remote-work) |
-| UX Designer (Figma & Mobile Apps) | BairesDev | BRAZIL | 2026-11-24 21:11 UTC | remote | [Apply](https://jaabz.com/jobs/312808-ux-designer-figma-mobile-apps-remote-work) |
-| Analytics Engineer | BairesDev | PERU | 2026-11-24 21:06 UTC | remote | [Apply](https://jaabz.com/jobs/312817-analytics-engineer-remote-work) |
-| Senior HubSpot Implementation Specialist | INSIDEA | INDIA | 2026-11-24 20:41 UTC | remote | [Apply](https://jaabz.com/jobs/291767-hubspot-specialist) |
-| Vue.js Developer - Remote Work | BairesDev | GREATER CURITIBA | 2026-11-24 20:27 UTC | remote | [Apply](https://jaabz.com/jobs/100699-vuejs-developer-remote-work) |
-| Senior Blockchain Engineer | BairesDev | COSTA RICA | 2026-11-24 19:30 UTC | remote | [Apply](https://jaabz.com/jobs/312500-senior-blockchain-engineer-remote-work) |
-| iOS Engineer (Swift & UIKit) | BairesDev | COLOMBIA | 2026-11-24 19:29 UTC | remote | [Apply](https://jaabz.com/jobs/312501-ios-engineer-swift-uikit-remote-work) |
-| Backend Developer (Ruby on Rails & GraphQL) | BairesDev | BRAZIL | 2026-11-24 19:27 UTC | remote | [Apply](https://jaabz.com/jobs/312503-backend-developer-ruby-on-rails-graphql-remote-work) |
-| Backend Developer (Micronaut & Node.js) | BairesDev | MEXICO | 2026-11-24 19:24 UTC | remote | [Apply](https://jaabz.com/jobs/312513-backend-developer-micronaut-nodejs-remote-work) |
-| Senior Software Engineer | metamask | United States | 2026-11-24 19:21 UTC | remote | [Apply](https://jaabz.com/jobs/312645-senior-software-engineer-assets) |
-| Site Reliability Engineer (AWS & EKS) | BairesDev | PERU | 2026-11-24 19:20 UTC | remote | [Apply](https://jaabz.com/jobs/312647-site-reliability-engineer-aws-eks-remote-work) |
-| ML Engineer (Deep Learning) | BairesDev | LATIN AMERICA | 2026-11-24 18:59 UTC | remote | [Apply](https://jaabz.com/jobs/312736-ml-engineer-deep-learning-remote-work) |
-| Senior React Native Developer (Mobile Applications) | urban job | BANGLADESH | 2026-11-24 18:50 UTC | remote | [Apply](https://jaabz.com/jobs/259965-react-native-developer-ii) |
 
 ## About this file
 
